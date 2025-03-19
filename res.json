@@ -1,0 +1,626 @@
+{
+  "results": [
+    {
+      "slug": "nomination1",
+      "name": "Найпотужніша ініціатива від ІТ-компанії, що наближає перемогу",
+      "icon": "https://cdn.prod.website-files.com/67d1632a0433fcf9c5541d47/67d1632a0433fcf9c5541d54_5857698698.svg",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Вперед до перемоги",
+          "mark_people": 24,
+          "mark_experts": 27,
+          "top": true,
+          "slug": "project3"
+        },
+        {
+          "rank": 2,
+          "name": "Збір для сил захисту",
+          "mark_people": 27,
+          "mark_experts": 23,
+          "top": true,
+          "slug": "project11"
+        },
+        {
+          "rank": 3,
+          "name": "TechFlow. Ride for hope",
+          "mark_people": 23,
+          "mark_experts": 24,
+          "top": true,
+          "slug": "project7"
+        },
+        {
+          "rank": 4,
+          "name": "Assist Nation",
+          "mark_people": 21,
+          "mark_experts": 25,
+          "top": false,
+          "slug": "project16"
+        },
+        {
+          "rank": 5,
+          "name": "Платформа для захисних проектів",
+          "mark_people": 20,
+          "mark_experts": 26,
+          "top": false,
+          "slug": "project2"
+        },
+        {
+          "rank": 6,
+          "name": "З'єднаємо через простір",
+          "mark_people": 26,
+          "mark_experts": 18,
+          "top": false,
+          "slug": "project14"
+        },
+        {
+          "rank": 7,
+          "name": "Data is form of art",
+          "mark_people": 22,
+          "mark_experts": 21,
+          "top": false,
+          "slug": "project20"
+        },
+        {
+          "rank": 8,
+          "name": "Залучити клієнтів до внесків з подорожей: стабільний фонд",
+          "mark_people": 25,
+          "mark_experts": 16,
+          "top": false,
+          "slug": "project5"
+        },
+        {
+          "rank": 9,
+          "name": "Кований колектив",
+          "mark_people": 19,
+          "mark_experts": 20,
+          "top": false,
+          "slug": "project9"
+        },
+        {
+          "rank": 10,
+          "name": "Сумки долі",
+          "mark_people": 18,
+          "mark_experts": 20,
+          "top": false,
+          "slug": "project18"
+        }
+      ]
+    },
+    {
+      "slug": "nomination2",
+      "name": "Найпотужніша ініціатива від ІТ-спеціалістів, що наближає перемогу",
+      "icon": "https://cdn.prod.website-files.com/67d1632a0433fcf9c5541d47/67d1632a0433fcf9c5541d5a_img-icon6.svg",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "GeoMatrix.live",
+          "mark_people": 18,
+          "mark_experts": 18,
+          "top": true,
+          "slug": "project10"
+        },
+        {
+          "rank": 2,
+          "name": "«PrintWave»",
+          "mark_people": 17,
+          "mark_experts": 15,
+          "top": true,
+          "slug": "project4"
+        },
+        {
+          "rank": 3,
+          "name": "Digital Hover UA",
+          "mark_people": 16,
+          "mark_experts": 16,
+          "top": true,
+          "slug": "project19"
+        },
+        {
+          "rank": 4,
+          "name": "KILO",
+          "mark_people": 15,
+          "mark_experts": 17,
+          "top": true,
+          "slug": "project8"
+        },
+        {
+          "rank": 5,
+          "name": "«Зв'язане»",
+          "mark_people": 12,
+          "mark_experts": 11,
+          "top": false,
+          "slug": "project12"
+        },
+        {
+          "rank": 6,
+          "name": "Disable Echo Media",
+          "mark_people": 10,
+          "mark_experts": 12,
+          "top": false,
+          "slug": "project1"
+        },
+        {
+          "rank": 7,
+          "name": "Волонтерський імпульс від Олексія",
+          "mark_people": 8,
+          "mark_experts": 14,
+          "top": false,
+          "slug": "project15"
+        },
+        {
+          "rank": 8,
+          "name": "«2000»",
+          "mark_people": 14,
+          "mark_experts": 7,
+          "top": false,
+          "slug": "project3"
+        },
+        {
+          "rank": 9,
+          "name": "swarm.tech",
+          "mark_people": 13,
+          "mark_experts": 6,
+          "top": false,
+          "slug": "project7"
+        },
+        {
+          "rank": 10,
+          "name": "«Палаючий птах»",
+          "mark_people": 11,
+          "mark_experts": 8,
+          "top": false,
+          "slug": "project17"
+        }
+      ]
+    },
+    {
+      "slug": "nomination6",
+      "name": "Найперспективніший проєкт в Defense Tech галузі",
+      "icon": "https://cdn.prod.website-files.com/67d1632a0433fcf9c5541d47/67d1632a0433fcf9c5541d81_icn-13.svg",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "FortisCore",
+          "mark_experts": 81,
+          "top": true,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 2,
+          "name": "AeroVantage",
+          "mark_experts": 77,
+          "top": true,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 3,
+          "name": "StratoWorks",
+          "mark_experts": 75,
+          "top": true,
+          "link": "https://google.com/"
+        }
+      ]
+    },
+    {
+      "slug": "nomination5",
+      "name": "Вони – надихають",
+      "icon": "https://cdn.prod.website-files.com/67d1632a0433fcf9c5541d47/67d1632a0433fcf9c5541d62_img-icon2.svg",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Олександр Петров",
+          "mark_people": 676,
+          "top": true,
+          "slug": "project2"
+        },
+        {
+          "rank": 2,
+          "name": "Марія Василенко",
+          "mark_people": 612,
+          "top": true,
+          "slug": "project11"
+        },
+        {
+          "rank": 3,
+          "name": "Сергій Малютін",
+          "mark_people": 602,
+          "top": true,
+          "slug": "project5"
+        },
+        {
+          "rank": 4,
+          "name": "Володимир Коваленко",
+          "mark_people": 549,
+          "top": true,
+          "slug": "project14"
+        },
+        {
+          "rank": 5,
+          "name": "Ігор Сидоренко",
+          "mark_people": 458,
+          "top": true,
+          "slug": "project8"
+        },
+        {
+          "rank": 6,
+          "name": "Олена Гриценко",
+          "mark_people": 416,
+          "top": true,
+          "slug": "project19"
+        }
+      ]
+    },
+    {
+      "slug": "nomination7",
+      "name": "Найкращий ІТ-виш",
+      "icon": "https://cdn.prod.website-files.com/67d1632a0433fcf9c5541d47/67d1632a0433fcf9c5541d81_icn-13.svg",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Інститут сучасного знання “Університет надії”",
+          "rating_dou": 15,
+          "mark_experts": 15,
+          "top": true,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 2,
+          "name": "Державний коледж «Київський академічний центр»",
+          "rating_dou": 14,
+          "mark_experts": 13,
+          "top": false,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 3,
+          "name": "Приватний навчальний заклад «Школа управління майбутнім»",
+          "rating_dou": 13,
+          "mark_experts": 14,
+          "top": false,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 4,
+          "name": "Компанія з обмеженою відповідальністю «Професійний навчальний інститут»",
+          "rating_dou": 12,
+          "mark_experts": 6,
+          "top": false,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 5,
+          "name": "Національний університет імені Лесі Українки",
+          "rating_dou": 11,
+          "mark_experts": 11,
+          "top": false,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 6,
+          "name": "Морський державний університет імені Л. Смирнова",
+          "rating_dou": 10,
+          "mark_experts": 1,
+          "top": false,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 7,
+          "name": "Львівський технологічний університет",
+          "rating_dou": 9,
+          "mark_experts": 10,
+          "top": false,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 8,
+          "name": "Університет імені Михайла Грушевського",
+          "rating_dou": 8,
+          "mark_experts": 9,
+          "top": false,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 9,
+          "name": "Національний технічний інститут «Інженерія майбутнього»",
+          "rating_dou": 7,
+          "mark_experts": 12,
+          "top": false,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 10,
+          "name": "Харківський академічний інститут «Сучасна наука»",
+          "rating_dou": 6,
+          "mark_experts": 5,
+          "top": false,
+          "link": "https://google.com/"
+        }
+      ]
+    },
+    {
+      "slug": "nomination8",
+      "name": "Найбільший внесок в розвиток спільноти",
+      "icon": "https://cdn.prod.website-files.com/67d1632a0433fcf9c5541d47/67d1632a0433fcf9c5541d81_icn-13.svg",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Арсеній Белко",
+          "title": "CTO та співзасновник фонду Nova, VP of Engineering at CyberTech",
+          "top": true,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 2,
+          "name": "Леонід Дорошенко",
+          "title": "iOS & macOS розробник з досвідом",
+          "top": true,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 3,
+          "name": "Світлана Гордій",
+          "title": "Засновник Digital Hub, консультант з бізнес-стратегій",
+          "top": true,
+          "link": "https://google.com/"
+        }
+      ]
+    },
+    {
+      "slug": "nomination4",
+      "name": "Найкраща соціально орієнтована ІТ-ініціатива",
+      "icon": "https://cdn.prod.website-files.com/67d1632a0433fcf9c5541d47/67d1632a0433fcf9c5541d60_img-icon4.svg",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "«Фінансова хвиля» від TechFlow",
+          "mark_people": 43,
+          "mark_experts": 43,
+          "top": true,
+          "slug": "project2"
+        },
+        {
+          "rank": 2,
+          "name": "Сила майбутнього",
+          "mark_people": 42,
+          "mark_experts": 42,
+          "top": true,
+          "slug": "project3"
+        },
+        {
+          "rank": 3,
+          "name": "Нові горизонти",
+          "mark_people": 40,
+          "mark_experts": 40,
+          "top": true,
+          "slug": "project4"
+        },
+        {
+          "rank": 4,
+          "name": "Імпульс",
+          "mark_people": 41,
+          "mark_experts": 38,
+          "top": false,
+          "slug": "project5"
+        },
+        {
+          "rank": 5,
+          "name": "Освіта для героїв",
+          "mark_people": 39,
+          "mark_experts": 37,
+          "top": false,
+          "slug": "project6"
+        },
+        {
+          "rank": 6,
+          "name": "Переміщенні: новий старт",
+          "mark_people": 36,
+          "mark_experts": 35,
+          "top": false,
+          "slug": "project7"
+        },
+        {
+          "rank": 7,
+          "name": "Підтримай Кабальєро",
+          "mark_people": 27,
+          "mark_experts": 41,
+          "top": false,
+          "slug": "project8"
+        },
+        {
+          "rank": 8,
+          "name": "Єдина лінія допомоги",
+          "mark_people": 28,
+          "mark_experts": 39,
+          "top": false,
+          "slug": "project9"
+        },
+        {
+          "rank": 9,
+          "name": "GoBeat",
+          "mark_people": 37,
+          "mark_experts": 29,
+          "top": false,
+          "slug": "project10"
+        },
+        {
+          "rank": 10,
+          "name": "Освіта для рівності майбутнього",
+          "mark_people": 35,
+          "mark_experts": 31,
+          "top": false,
+          "slug": "project11"
+        }
+      ]
+    },
+    {
+      "slug": "nomination3",
+      "name": "Найкраща некомерційна ініціатива, яка сприяє розвитку ІТ-галузі",
+      "icon": "https://cdn.prod.website-files.com/67d1632a0433fcf9c5541d47/67d1632a0433fcf9c5541d5e_img-icon.svg",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Повернення на старт: перші кроки в інновації",
+          "mark_people": 20,
+          "mark_experts": 17,
+          "top": true,
+          "slug": "project6"
+        },
+        {
+          "rank": 2,
+          "name": "Navigator Guidance Network",
+          "mark_people": 19,
+          "mark_experts": 16,
+          "top": true,
+          "slug": "project2"
+        },
+        {
+          "rank": 3,
+          "name": "Mentor's Quick Rise",
+          "mark_people": 13,
+          "mark_experts": 20,
+          "top": true,
+          "slug": "project17"
+        },
+        {
+          "rank": 4,
+          "name": "Robotic Innovators Group",
+          "mark_people": 17,
+          "mark_experts": 14,
+          "top": false,
+          "slug": "project8"
+        },
+        {
+          "rank": 5,
+          "name": "Пливки",
+          "mark_people": 18,
+          "mark_experts": 11,
+          "top": false,
+          "slug": "project11"
+        },
+        {
+          "rank": 6,
+          "name": "IT Одісея",
+          "mark_people": 9,
+          "mark_experts": 19,
+          "top": false,
+          "slug": "project5"
+        },
+        {
+          "rank": 7,
+          "name": "FANTASY",
+          "mark_people": 8,
+          "mark_experts": 18,
+          "top": false,
+          "slug": "project12"
+        },
+        {
+          "rank": 8,
+          "name": "CODE Contest",
+          "mark_people": 15,
+          "mark_experts": 9,
+          "top": false,
+          "slug": "project3"
+        },
+        {
+          "rank": 9,
+          "name": "Career Boost SKELAR",
+          "mark_people": 14,
+          "mark_experts": 10,
+          "top": false,
+          "slug": "project14"
+        },
+        {
+          "rank": 10,
+          "name": "Startup Camp 2024",
+          "mark_people": 11,
+          "mark_experts": 12,
+          "top": false,
+          "slug": "project9"
+        }
+      ]
+    },
+    {
+      "slug": "nomination9",
+      "icon": "https://cdn.prod.website-files.com/67d1632a0433fcf9c5541d47/67d1632a0433fcf9c5541d81_icn-13.svg",
+      "name": "Зростання року",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Bright Horizon",
+          "top": true,
+          "link": "https://google.com/"
+        }
+      ]
+    },
+    {
+      "slug": "nomination10",
+      "name": "Стартап із найбільшим потенціалом",
+      "icon": "https://cdn.prod.website-files.com/67d1632a0433fcf9c5541d47/67d1632a0433fcf9c5541d81_icn-13.svg",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "InvestHub",
+          "mark_experts": 167,
+          "top": true,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 2,
+          "name": "VerifyScope",
+          "mark_experts": 155,
+          "top": true,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 3,
+          "name": "GlobalYC",
+          "mark_experts": 145,
+          "top": true,
+          "link": "https://google.com/"
+        }
+      ]
+    },
+    {
+      "slug": "nomination11",
+      "name": "Впливовий голос у світі",
+      "icon": "https://cdn.prod.website-files.com/67d1632a0433fcf9c5541d47/67d1632a0433fcf9c5541d81_icn-13.svg",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Олег Мартиненко",
+          "title": "солдат, IT-ентузіаст, засновник фонду CyberPaw",
+          "top": true,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 2,
+          "name": "X.Y.Z. Operator",
+          "title": "",
+          "top": true,
+          "link": "https://google.com/"
+        },
+        {
+          "rank": 3,
+          "name": "Михайло Бойко",
+          "title": "CEO Quantum Rule / Нова Ера",
+          "top": true,
+          "link": "https://google.com/"
+        }
+      ]
+    },
+    {
+      "slug": "nomination12",
+      "name": "Найкраща школа для ІТ за результатами НМТ 2024",
+      "icon": "https://cdn.prod.website-files.com/67d1632a0433fcf9c5541d47/67d1632a0433fcf9c5541d81_icn-13.svg",
+      "projects": [
+        {
+          "rank": 1,
+          "name": "Київський науково-технічний ліцей-інтернат при Київському університеті імені Богдана Хмельницького",
+          "top": true,
+          "link": "https://google.com/"
+        }
+      ]
+    }
+  ]
+}
