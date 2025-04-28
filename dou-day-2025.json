@@ -200,7 +200,115 @@
           }
         ]
       },
-
+{
+        "startTime": "12:00",
+        "endTime": "12:15",
+        "stageName": "Pro Stage",
+        "eventTopic": "Досвід виходу на індійський ринок розробників: глобальні чинники, стратегія та реальні кейси",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "",
+        "extraClasses": ["day2", "pro"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39712_imgspicers6.png",
+            "name": "Юрій Кушла",
+            "position": "VP New Markets, N-iX",
+            "socialLink": "https://www.linkedin.com/in/yuriy-kushla/"
+          }
+        ]
+      },
+      {
+        "startTime": "12:15",
+        "endTime": "12:30",
+        "stageName": "Pro Stage",
+        "eventTopic": "Як робити продукти для покоління Z",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "",
+        "extraClasses": ["day2", "pro"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39742_%D0%84%D0%B2%D0%B3%D0%B5%D0%BD%20%D0%92%D0%B8%D0%B3%D0%BD%D0%B0%D0%BD.png",
+            "name": "Євген Вигнан",
+            "position": "COO/Co-Founder, appflame",
+            "socialLink": "https://www.linkedin.com/in/jakevygnan/"
+          }
+        ]
+      },
+      {
+        "startTime": "12:30",
+        "endTime": "12:45",
+        "stageName": "Pro Stage",
+        "eventTopic": "Як будувати мости, а не стіни: міжнародний PR для масштабування ІТ-бізнесу",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "",
+        "extraClasses": ["day2", "pro"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39752_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0-%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%83%D1%85%D0%B0.png",
+            "name": "Олександра Говоруха",
+            "position": "Голова з міжнародних корпоративних зв’язків, Sigma Software Group, Амбасадорка ІТ Асоціації України у Великій Британії",
+            "socialLink": "https://www.linkedin.com/in/alexandra-govorukha-127ab534/"
+          }
+        ]
+      },
+      {
+        "startTime": "13:30",
+        "endTime": "14:15",
+        "stageName": "Pro Stage",
+        "eventTopic": "Що коїться з ІТ-наймом в Україні",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "",
+        "extraClasses": ["day2", "pro"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3973a_%D0%9E%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%A0%D1%83%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE.png",
+            "name": "Олена Руденко",
+            "position": "Head of Analytics, Djinni",
+            "socialLink": "https://www.linkedin.com/in/olenarudenko/"
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39751_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%A8%D0%B0%D1%82%D0%BD%D0%B8%D0%B8%CC%86.png",
+            "name": "Олександр Шатний",
+            "position": "VP HR and Recruitment, N-iX",
+            "socialLink": "https://www.linkedin.com/in/oleksandr-shatnyy-61b6743/"
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39758_Mask%20group.png",
+            "name": "Антон Фількевич",
+            "position": "Старший директор з залучення талантів в Україні, Болгарії, Румунії, Іспанії, Португалії та Греції, EPAM Systems",
+            "socialLink": "https://www.linkedin.com/in/anton-filkevych-a003261/"
+          },
+          {
+            "photo": "",
+            "name": "TBA",
+            "position": "",
+            "socialLink": ""
+          }
+        ]
+      },
+      {
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "stageName": "Pro Stage",
+        "eventTopic": "(Не)іронічні поради про розробку, команду та створення продуктів",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "",
+        "extraClasses": ["day2", "pro"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39750_%D0%90%D1%80%D1%82%D0%B5%D0%BC-%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%D1%82%D1%8E%D0%BA.png",
+            "name": "Артем Бородатюк",
+            "position": "Засновник та СЕО, Netpeak Group",
+            "socialLink": "https://www.linkedin.com/in/artem-borodatiuk-18b9986/"
+          },
+          {
+            "photo": "",
+            "name": "Ілля Філіпов",
+            "position": "Співзасновник та CEO, EdEra",
+            "socialLink": "https://www.linkedin.com/in/illia-filipov-6a0706b4/"
+          }
+        ]
+      },
     ]
   }
 }
