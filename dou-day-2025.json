@@ -1,0 +1,46 @@
+{
+  "dou-day-2025": {
+    "program": [
+      {
+        "startTime": "10:30",
+        "endTime": "11:15",
+        "stageName": "Architecture Stage",
+        "eventTopic": "AI-First Government: архітектура інноваційного державного управління",
+        "calendarLink": "https://calendar-link.com/event1",
+        "description": "У доповіді йтиметься про підходи Міністерства цифрової трансформації до побудови архітектури цифрового уряду: як використовуються GenAI, продумана архітектура даних і масштабовані агентні системи для створення сервісів, що працюють швидко, адаптуються до змін і орієнтовані на користувача.\nДмитро розгляне стратегічні рішення в enterprise-архітектурі, модель впровадження ШІ в державне управління та загальне бачення переходу до AI-First Government — з опорою на прозорість, інновації та довіру.",
+        "extraClasses": ["day1", "main"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39713_imgspicers11.png",
+            "name": "Дмитро Овчаренко",
+            "position": "AI CTO of Ministry of Digital Transformation",
+            "socialLink": "https://www.linkedin.com/in/dmytroovcharenko/"
+          }
+        ]
+      },
+      {
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "stageName": "Architecture Stage",
+        "eventTopic": "Challenge completed: як ми стабілізували AddMile за 6 місяців",
+        "calendarLink": "https://calendar-link.com/event2",
+        "description": "Артем розповість, з чого почати стабілізацію продукту, щоб не зупинити бізнес, і як побудувати стратегію поступових змін. На прикладі AddMile розглянемо ключові принципи зміни архітектури та міграції бази даних. Також Артем поділиться, на що варто звернути увагу в перші місяці після запуску продукту. Окремо зупинимося на підходах і практичних рішеннях, що допомагають водночас стабілізувати продукт і закласти основу для його масштабування.",
+        "extraClasses": ["day2", "architecture"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969c_img-sp11.png",
+            "name": "Артем Грицаєнко",
+            "position": "Head of Engineering, Headway (AddMile)",
+            "socialLink": "https://dou.ua/users/artem-grytsaienko/"
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969c_img-sp11.png",
+            "name": "Артем Грицаєнко",
+            "position": "Head of Engineering, Headway (AddMile)",
+            "socialLink": "https://dou.ua/users/artem-grytsaienko/"
+          }
+        ]
+      }
+    ]
+  }
+}
