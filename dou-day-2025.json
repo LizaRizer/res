@@ -973,6 +973,131 @@
   ]
 },
 {
+    "startTime": "10:30",
+    "endTime": "11:15",
+    "stageName": "Architecture Stage",
+    "eventTopic": "Cell-Based Architecture: нова ера мікросервісів",
+    "calendarLink": "https://calendar-link.com/event-new",
+    "description": "За минулі 10 років мікросервіси стали одним зі стандартів сучасної архітектури. Однак перед нами постали виклики: ускладнення систем, залежність сервісів, розмита відповідальність команд, гарантія SLA’їв тощо.\n\nCell-Based Architecture — підхід, який розв’язує ці та інші проблеми через групування пов’язаних компонентів у «комірки» (самодостатні одиниці), зменшує залежність, покращує масштабованість і стійкість до збоїв, підтримує поступову еволюцію.\n\nЦе вже працює в Slack, Uber і Spotify тощо. Приходьте й дізнайтеся як!",
+    "extraClasses": ["day2", "architecture"],
+    "speakers": [
+      {
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39714_imgspicers8.png",
+        "name": "Олександр Савченко",
+        "position": "Solutioning Director, Ciklum",
+        "socialLink": "https://dou.ua/users/oleksandr-savchenko-7/"
+      }
+    ]
+  },
+  {
+    "startTime": "12:00",
+    "endTime": "12:45",
+    "stageName": "Architecture Stage",
+    "eventTopic": "Операційна система: що насправді відбувається, коли ви запускаєте вашу програму",
+    "calendarLink": "https://calendar-link.com/event-new",
+    "description": "",
+    "extraClasses": ["day2", "architecture"],
+    "speakers": [
+      {
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f396bd_ph274.png",
+        "name": "Віктор Турський",
+        "position": "Співзасновник WebbyLab, ex Google",
+        "socialLink": "https://www.linkedin.com/in/turskyi/"
+      }
+    ]
+  },
+  {
+    "startTime": "13:30",
+    "endTime": "14:15",
+    "stageName": "Architecture Stage",
+    "eventTopic": "Індустріальний IoT у моніторингу критичної інфраструктури",
+    "calendarLink": "https://calendar-link.com/event-new",
+    "description": "Промисловий інтернет речей (IIoT) відкриває нові можливості для ефективного моніторингу об’єктів критичної інфраструктури. У доповіді Євген Смертенко розгляне архітектурні підходи (Data Lake, Lakehouse), приклади реальних кейсів, а також використання машинного навчання та операційної аналітики для прогнозування аварій і ухвалення рішень у реальному часі.",
+    "extraClasses": ["day2", "architecture"],
+    "speakers": [
+      {
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3973f_%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%84%D0%B2%D0%B3%D0%B5%D0%BD.png",
+        "name": "Євген Смертенко",
+        "position": "Head of Big Data, Industrial IoT, and AI Solutions, MODUS X",
+        "socialLink": "https://www.linkedin.com/in/yevgen-smertenko-68421758/"
+      }
+    ]
+  },
+   {
+    "startTime": "10:30",
+    "endTime": "11:15",
+    "stageName": "Software Development Stage",
+    "eventTopic": "Як 50 інженерів роблять 1000 деплоїв на місяць",
+    "calendarLink": "https://calendar-link.com/event-new",
+    "description": "Як у високонавантаженому середовищі деплоїти код десятки разів на день без ризиків для бізнесу? Head of Engineering у Solidgate Макс Багінський поділиться підходами, які ведуть до швидких і стабільних релізів без даунтаймів.\n\nУ фокусі – автоматизація на рівні CI/CD, архітектури, Trunk Based Development, feature flags, тестування, а також ШІ-асистенти для написання та рев’ю коду. Лекція буде цікава інженерам, CTO, DevOps-фахівцям і продуктовим менеджерам, які хочуть масштабувати розробку продуктивно, швидко та без компромісів у якості.",
+    "extraClasses": ["day2", "software"],
+    "speakers": [
+      {
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3970f_imgspicers2.png",
+        "name": "Максим Багінський",
+        "position": "Head of Engineering, Solidgate",
+        "socialLink": "https://dou.ua/users/maksim-baginskij/"
+      }
+    ]
+  },
+  {
+    "startTime": "12:45",
+    "endTime": "13:30",
+    "stageName": "Software Development Stage",
+    "eventTopic": "Good Enough Code — код «на відчепись» чи «відчепіться від мого коду»?",
+    "calendarLink": "https://calendar-link.com/event-new",
+    "description": "Код не має бути ідеальним. Він має бути достатньо хорошим, щоб виконати своє завдання. Але де проходить межа між компромісом і халтурою? Чому прагнення до досконалості може зробити код гіршим?\n\nGood Enough Code — це про баланс між якістю і швидкістю розробки. Про те, як зупинитися вчасно, поки покращення не перетворилися на марнування часу. Розберемо, коли код достатньо хороший і чому «відчепіться від мого коду» — це іноді найправильніший підхід.",
+    "extraClasses": ["day2", "software"],
+    "speakers": [
+      {
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f396c0_ph273.png",
+        "name": "Сергій Бабіч",
+        "position": "Senior Software Developer в DataRobot",
+        "socialLink": "https://dou.ua/users/babich/"
+      }
+    ]
+  },
+  {
+    "startTime": "14:15",
+    "endTime": "15:00",
+    "stageName": "Software Development Stage",
+    "eventTopic": "Операційна система: що насправді відбувається, коли ви запускаєте програму",
+    "calendarLink": "https://calendar-link.com/event-new",
+    "description": "Який розробник не мріє переписати все з нуля? Ця доповідь — історія про те, як ми втілили цю мрію у великій фінансовій платформі: як обґрунтували міграцію перед бізнес-керівництвом, перевчили велику команду розробників на нову технологію, побудували процеси, подолали технічні виклики та спроєктували масштабовану архітектуру.\n\nА ще налаштували агресивну автоматизацію і за рік таки переписали мільйон рядків коду. Інсайти корисні для кожного, хто працює з масштабними проєктами.",
+    "extraClasses": ["day2", "software"],
+    "speakers": [
+      {
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f396a7_img-sp6.png",
+        "name": "Анна Леущенко",
+        "position": "Senior Staff Engineer / Engineering Manager, Tide",
+        "socialLink": "https://www.linkedin.com/in/annaleushchenko/"
+      }
+    ]
+  },
+  {
+  "startTime": "11:15",
+  "endTime": "12:00",
+  "stageName": "GameDev corner",
+  "eventTopic": "Доступність в Assassin's Creed Shadows",
+  "calendarLink": "https://calendar-link.com/event-new",
+  "description": "У доповіді спікер розгляне функції доступності, реалізовані в грі Assassin's Creed Shadows, із фокусом на адаптації для гравців із когнітивними порушеннями, порушеннями зору, слуху та моторики.\n\nПроаналізує, як інтерфейс, геймплейні механіки та аудіовізуальні налаштування сприяють інклюзивності. І розгляне нововведення серії та їхній вплив на доступність гри.",
+  "extraClasses": ["day2", "gamedev"],
+  "speakers": [
+    {
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3974a_1652970915760.png",
+      "name": "Галина Митник",
+      "position": "Game Designer, Ubisoft",
+      "socialLink": "https://www.linkedin.com/in/halyna-mytnyk/"
+    },
+    {
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39755_%D0%94%D0%B5%D0%BD%D0%B8%D1%81-%D0%90%D0%BD%D1%96%D1%81%D1%96%D0%BC%D0%BE%D0%B2.png",
+      "name": "Денис Анісімов",
+      "position": "Game Designer, Ubisoft",
+      "socialLink": "https://www.linkedin.com/in/denys-anisimov-579432161/"
+    }
+  ]
+},
+{
   "startTime": "14:15",
   "endTime": "15:00",
   "stageName": "GameDev corner",
