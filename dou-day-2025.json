@@ -309,6 +309,29 @@
           }
         ]
       },
+{
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "stageName": "GameDev Stage",
+        "eventTopic": "Доступність в Assassin's Creed Shadows",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "У доповіді спікер розгляне функції доступності, реалізовані в грі Assassin's Creed Shadows, із фокусом на адаптації для гравців із когнітивними порушеннями, порушеннями зору, слуху та моторики. Проаналізує, як інтерфейс, геймплейні механіки та аудіовізуальні налаштування сприяють інклюзивності. І розгляне нововведення серії та їхній вплив на доступність гри.",
+        "extraClasses": ["day2", "game"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3974a_1652970915760.png",
+            "name": "Галина Митник",
+            "position": "Game Designer, Ubisoft",
+            "socialLink": "https://www.linkedin.com/in/halyna-mytnyk/"
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39755_%D0%94%D0%B5%D0%BD%D0%B8%D1%81-%D0%90%D0%BD%D1%96%D1%81%D1%96%D0%BC%D0%BE%D0%B2.png",
+            "name": "Денис Анісімов",
+            "position": "Game Designer, Ubisoft",
+            "socialLink": "https://www.linkedin.com/in/denys-anisimov-579432161/"
+          }
+        ]
+      }
     ]
   }
 }
