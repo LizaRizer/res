@@ -4,40 +4,74 @@
       {
         "startTime": "10:30",
         "endTime": "11:15",
-        "stageName": "Architecture Stage",
-        "eventTopic": "AI-First Government: архітектура інноваційного державного управління",
-        "calendarLink": "https://calendar-link.com/event1",
-        "description": "У доповіді йтиметься про підходи Міністерства цифрової трансформації до побудови архітектури цифрового уряду: як використовуються GenAI, продумана архітектура даних і масштабовані агентні системи для створення сервісів, що працюють швидко, адаптуються до змін і орієнтовані на користувача. Дмитро розгляне стратегічні рішення в enterprise-архітектурі, модель впровадження ШІ в державне управління та загальне бачення переходу до AI-First Government — з опорою на прозорість, інновації та довіру.",
-        "extraClasses": ["day1", "main"],
+        "stageName": "Product and Marketing Stage",
+        "eventTopic": "ROI or Die",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Бути продуктовим менеджером — це не про виконання задач, це про щоденні інвестиції.\nМакс поділиться власними принципами, які допомагають ухвалювати сильні продуктові та бізнес-рішення: як рахувати ROI, перевіряти гіпотези, будувати моделі, думати через сценарії, ризики й можливості.\n\nЦе буде захоплива історія про відповідальність за результат і про силу, яка виникає, коли замість «я так відчуваю» з’являється «я так порахував». Це не про dry-метрики — це про вплив!",
+        "extraClasses": ["day2", "product"],
         "speakers": [
           {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39713_imgspicers11.png",
-            "name": "Дмитро Овчаренко",
-            "position": "AI CTO of Ministry of Digital Transformation",
-            "socialLink": "https://www.linkedin.com/in/dmytroovcharenko/"
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39743_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%20%D0%91%D1%94%D0%BB%D1%8F%D0%BA.png",
+            "name": "Максим Бєляк",
+            "position": "CPO, Jooble",
+            "socialLink": "https://www.linkedin.com/in/max-belyak/"
           }
         ]
       },
       {
-        "startTime": "11:30",
-        "endTime": "12:30",
-        "stageName": "Architecture Stage",
-        "eventTopic": "Challenge completed: як ми стабілізували AddMile за 6 місяців",
-        "calendarLink": "https://calendar-link.com/event2",
-        "description": "Артем розповість, з чого почати стабілізацію продукту, щоб не зупинити бізнес, і як побудувати стратегію поступових змін. На прикладі AddMile розглянемо ключові принципи зміни архітектури та міграції бази даних. Також Артем поділиться, на що варто звернути увагу в перші місяці після запуску продукту. Окремо зупинимося на підходах і практичних рішеннях, що допомагають водночас стабілізувати продукт і закласти основу для його масштабування.",
-        "extraClasses": ["day2", "architecture"],
+        "startTime": "13:30",
+        "endTime": "14:15",
+        "stageName": "Product and Marketing Stage",
+        "eventTopic": "The world changed yesterday: фундаментальні зміни в продуктовому IT",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Сергій Мацур — CEO COPYMIND — R&D продукту OBRIO. OBRIO — IT-компанія з екосистеми Genesis, що розвиває Nebula — найбільший бренд у сфері spirituality з 60+ млн користувачів та 300+ тіммейтів.\n\nНа DOU DAY Сергій розповість, як AI став новим способом роботи, впливаючи на:\n- створення продуктів за день,\n- автоматизацію без коду,\n- скорочення time-to-market у 10 разів\nта побудову конкурентної переваги через адаптивність та AI-стек.",
+        "extraClasses": ["day2", "product"],
         "speakers": [
           {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969c_img-sp11.png",
-            "name": "Артем Грицаєнко",
-            "position": "Head of Engineering, Headway (AddMile)",
-            "socialLink": "https://dou.ua/users/artem-grytsaienko/"
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39711_imgspicers7.png",
+            "name": "Сергій Мацур",
+            "position": "CEO of COPYMIND (OBRIO | Genesis)",
+            "socialLink": "https://www.linkedin.com/in/serhii-matsur-3394a718b/"
+          }
+        ]
+      },
+      {
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "stageName": "Product and Marketing Stage",
+        "eventTopic": "Побудова Marketing Creative factory, або Як збільшити обсяг протестованих креативів x8 і тестувати їх у 10 разів дешевше",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "На Marketing Stage Катерина Назаренко та Святослав Лунін з appflame розкажуть, що робити, коли команда опиняється у флет-зоні, а звичні інструменти вже не працюють.\n\nНа прикладі трансформації маркетингового підходу поділяться, як запустили фабрику креативів, збільшили обсяг тестів у 8 разів (з 3000 до 27 000 YoY) та здешевили тестування у 10 разів.\n\nТакож розглянуть фреймворк, який допоміг підвищити ефективність на 20% без додаткового бюджету, досягти рекордних бізнес-результатів і водночас зміцнити команду.",
+        "extraClasses": ["day2", "product"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39741_%D0%A1%D0%B2%D1%8F%D1%82%20%D0%9B%D1%83%D0%BD%D1%96%D0%BD.png",
+            "name": "Святослав Лунін",
+            "position": "Head of Performance, Marketing Taimi (appflame)",
+            "socialLink": "https://www.linkedin.com/in/sviatoslav-lunin-973081168/"
           },
           {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969c_img-sp11.png",
-            "name": "Артем Грицаєнко",
-            "position": "Head of Engineering, Headway (AddMile)",
-            "socialLink": "https://dou.ua/users/artem-grytsaienko/"
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3973c_%D0%9A%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%20%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE.png",
+            "name": "Катерина Назаренко",
+            "position": "Head of Creative Production, Taimi (appflame)",
+            "socialLink": "https://www.linkedin.com/in/katerynanazarenko/"
+          }
+        ]
+      },
+      {
+        "startTime": "16:30",
+        "endTime": "17:15",
+        "stageName": "Product and Marketing Stage",
+        "eventTopic": "Як одразу робити класний продукт для мільйонів",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Влада Подкуйко працює в mono вже шість років і на старті роботи не уявляла, як створювати продукти, якими користуються мільйони людей. Коли один з найпопулярніших застосунків у країні розробляє нову фічу, то немає шансу на другу спробу. Вона розповість, які підходи використовує команда та які секретні фішечки має.",
+        "extraClasses": ["day2", "product"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969b_img-sp10.png",
+            "name": "Влада Подкуйко",
+            "position": "Product Owner, mono",
+            "socialLink": "https://www.linkedin.com/in/vladapodkuyko/"
           }
         ]
       }
