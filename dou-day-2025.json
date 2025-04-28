@@ -312,11 +312,11 @@
 {
         "startTime": "12:00",
         "endTime": "12:45",
-        "stageName": "GameDev Stage",
+        "stageName": "GameDev corner",
         "eventTopic": "Доступність в Assassin's Creed Shadows",
         "calendarLink": "https://calendar-link.com/event-new",
         "description": "У доповіді спікер розгляне функції доступності, реалізовані в грі Assassin's Creed Shadows, із фокусом на адаптації для гравців із когнітивними порушеннями, порушеннями зору, слуху та моторики. Проаналізує, як інтерфейс, геймплейні механіки та аудіовізуальні налаштування сприяють інклюзивності. І розгляне нововведення серії та їхній вплив на доступність гри.",
-        "extraClasses": ["day2", "game"],
+        "extraClasses": ["day2", "gamedev"],
         "speakers": [
           {
             "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3974a_1652970915760.png",
