@@ -74,7 +74,82 @@
             "socialLink": "https://www.linkedin.com/in/vladapodkuyko/"
           }
         ]
-      }
+      },
+{
+        "startTime": "10:30",
+        "endTime": "11:15",
+        "stageName": "AI and Data Science Stage",
+        "eventTopic": "Від нуля до сингулярності: як виміряти прогрес ШІ-моделей",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Яка LLM більше підходить для розв’язання математичних і логічних завдань, генерування контенту тощо? У доповіді розглянемо різні способи оцінювання великих мовних моделей, зокрема метрики, бенчмарки, людське оцінювання. А також дослідження, які аналізують неочевидну поведінку та вплив на взаємодію людини і штучного інтелекту.",
+        "extraClasses": ["day2", "ai"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f396a0_img-sp2.png",
+            "name": "Олександр Краковецький",
+            "position": "CEO, DevRain",
+            "socialLink": "https://dou.ua/users/sashaeve/"
+          }
+        ]
+      },
+      {
+        "startTime": "14:15",
+        "endTime": "15:00",
+        "stageName": "AI and Data Science Stage",
+        "eventTopic": "Математика музики: як ми навчаємо ШІ писати хіт",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Що таке музика з погляду фізики та математики? Як перетворити звук на формули — і створити з них хіт? Які технічні проблеми при цьому можуть виникнути і як їх подолати. Розповімо, як професійно створити музику за допомогою ШІ і чим це відрізнятиметься від масових рішень на кшталт Suno.",
+        "extraClasses": ["day2", "ai"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969d_img-sp.png",
+            "name": "Дмитро Софина",
+            "position": "CEO & Co-founder at R&D Center WINSTARS.AI",
+            "socialLink": "https://www.linkedin.com/in/dmitriy-sofyna/"
+          }
+        ]
+      },
+      {
+        "startTime": "16:30",
+        "endTime": "17:15",
+        "stageName": "AI and Data Science Stage",
+        "eventTopic": "Think Local — AI в Eney, що наближає епоху Software 3.0",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Поговоримо про локальні моделі на macOS, підходи до створення privacy-first асистента, агентні системи та напрями досліджень, які ми розвиваємо в AIR — AI Research команді MacPaw. Також зачепимо тему AI-стратегії та потрібної для неї структури.",
+        "extraClasses": ["day2", "ai"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39710_imgspicers10.png",
+            "name": "Володимир Кубицький",
+            "position": "Head of AI, MacPaw",
+            "socialLink": "https://dou.ua/users/vova-kubytskyi/"
+          }
+        ]
+      },
+      {
+        "startTime": "17:15",
+        "endTime": "18:00",
+        "stageName": "AI and Data Science Stage",
+        "eventTopic": "AI в освіті",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "",
+        "extraClasses": ["day2", "ai"],
+        "speakers": [
+          {
+            "photo": "",
+            "name": "Євген Ковалевський",
+            "position": "VP of Engineering, LetyShops",
+            "socialLink": "https://dou.ua/users/yevgen-kovalevskij/"
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39769_%D0%9C%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B8%CC%86.png",
+            "name": "Олексій Молчановський",
+            "position": "Директор з інновацій, Український католицький університет",
+            "socialLink": "https://www.linkedin.com/in/olexiim/"
+          }
+        ]
+      },
+
     ]
   }
 }
