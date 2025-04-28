@@ -149,6 +149,57 @@
           }
         ]
       },
+      {
+        "startTime": "10:30",
+        "endTime": "11:15",
+        "stageName": "Testing Stage",
+        "eventTopic": "QA ≠ просто тестування задач",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Багато хто думає, що QA — це просто тестування задач. Але справжній QA — це рушій змін, аналітик, ініціатор фіч і охоронець якості процесів. Свят Логин розкаже, як QA може впливати на продукт, виявляти проблеми до релізу, зберігати гроші проєкту та навіть знаходити слабкі місця в команді. Готові змінити уявлення про тестування?",
+        "extraClasses": ["day2", "testing"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f396a6_img-sp7.png",
+            "name": "Свят Логин",
+            "position": "Head of Engineering Excellence&Quality, EVO",
+            "socialLink": "https://dou.ua/users/svyatoslav-vasilevich/"
+          }
+        ]
+      },
+      {
+        "startTime": "13:30",
+        "endTime": "14:15",
+        "stageName": "Testing Stage",
+        "eventTopic": "Тестування мобільних застосунків на доступність і підготовка до EAA",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Чи відповідає ваш застосунок стандартам Європейського акту про доступність (EAA), який набуває чинності у червні 2025 року? Приєднайтеся до цієї сесії, щоб дізнатися, як інтегрувати перевірки доступності в мобільний QA-процес, які інструменти використовувати та чому інклюзивність — це не опція, а необхідність.",
+        "extraClasses": ["day2", "testing"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3975f_%D0%95%D0%BB%D1%8C%D0%BD%D0%B0%D1%80%D0%B0%20%D0%90%D1%81%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0.png",
+            "name": "Ельнара Асадова",
+            "position": "QA Lead, SQUAD",
+            "socialLink": "https://dou.ua/users/elnara-asadova/"
+          }
+        ]
+      },
+      {
+        "startTime": "15:45",
+        "endTime": "16:30",
+        "stageName": "Testing Stage",
+        "eventTopic": "Як Vibe Coding змінює роль QA-інженера",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Vibe Coding — це нова хвиля в ІТ, де гнучкість і швидкість важливіші за формальності. У цьому світі QA — вже не просто тестувальник, а партнер у створенні продукту.\nQA-фахівці більше не обмежуються тест-кейсами — вони впливають на якість продукту в реальному часі, стратегічно і гнучко.",
+        "extraClasses": ["day2", "testing"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3974e_%D0%9E%D0%BB%D0%B5%D1%81%D1%8F-%D0%9F%D0%B0%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B0.png",
+            "name": "Олеся Паславська",
+            "position": "QA Lead, N-IX",
+            "socialLink": "https://www.linkedin.com/in/olesya-paslavska-4720b545/"
+          }
+        ]
+      },
 
     ]
   }
