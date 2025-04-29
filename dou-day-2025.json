@@ -1,7 +1,74 @@
 {
   "dou-day-2025": {
     "program": [
-
+ {
+    "startTime": "14:15",
+    "endTime": "15:00",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://www.linkedin.com/in/andrii-prepiialo/",
+    "description": "",
+    "extraClasses": ["day2", "main"],
+    "speakers": [
+      {
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/6810ec4209ea25a8bd934d7a_%D0%9F%D1%80%D0%B5%D0%BF%D1%96%D1%8F%D0%BB%D0%BE.png",
+        "name": "Андрій Препіяло",
+        "position": "Product Manager, Ajax Systems",
+        "socialLink": "https://www.linkedin.com/in/andrii-prepiialo/"
+      }
+    ]
+  },
+  {
+    "startTime": "16:30",
+    "endTime": "17:15",
+    "stageName": "Architecture Stage",
+    "eventTopic": "Robust Route Sampler Pipeline Architecture",
+    "calendarLink": "https://dou.ua/users/Rudenko/",
+    "description": "Як у Lyft працює ціноутворення? Формування правильної ціни — основа райдшерингового бізнесу і те, що допомагає компанії утримувати близько 30% ринку у США. Під час доповіді спікер розбере архітектуру пайплайну, який обробляє запити на ціну в застосунку Lyft: як дані проходять через зважену модель коміркової системи, потрапляють у кілька моделей передбачення і формують датасет для фінального розрахунку вартості поїздки. Розкаже про роль Robust Route Sampler і те, як від його роботи залежить ефективність усієї системи.",
+    "extraClasses": ["day2", "architecture"],
+    "speakers": [
+      {
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/6810ec40aea4b409ec6632fa_%D0%A0%D1%83%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE.png",
+        "name": "Дмитро Руденко",
+        "position": "Engineering Manager, Lyft",
+        "socialLink": "https://dou.ua/users/Rudenko/"
+      }
+    ]
+  },
+  {
+    "startTime": "12:00",
+    "endTime": "12:45",
+    "stageName": "Product and Marketing Stage",
+    "eventTopic": "Чому команди не дорослішають і що з цим робити",
+    "calendarLink": "https://www.linkedin.com/in/mishanestor/",
+    "description": "Незалежно від того, ви керуєте продуктовою командою як непрямий лідер, чи очолюєте юніт як піплменеджер, шлях до розвитку лежить лише через дорослішання та автономію команди. Без цього неможливе масштабування продукту та бізнесу, без цього люди не мають ясності і горять, рішення займають довгий час, і всі привʼязані до менеджера (який теж в підсумку горить). Які червоні прапорці і блокери на шляху до тих самих міфічних автономних команд, і як їх подолати - про це буде доповідь Михайла.",
+    "extraClasses": ["day2", "product"],
+    "speakers": [
+      {
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/6810ec40830d46a5c16bcaf6_%D0%9D%D0%B5%D1%81%D1%82%D0%BE%D1%80.png",
+        "name": "Михайло Нестор",
+        "position": "Chief Product Officer, Kyivstar",
+        "socialLink": "https://www.linkedin.com/in/mishanestor/"
+      }
+    ]
+  },
+  {
+    "startTime": "16:30",
+    "endTime": "17:15",
+    "stageName": "Architecture Stage",
+    "eventTopic": "Автоматизація реагування на надзвичайні ситуації за допомогою NLP: шлях від ручної роботи до машинного розуміння",
+    "calendarLink": "https://dou.ua/users/oleksandr-lisenko/?from=menu-profile",
+    "description": "Ця презентація — про трансформацію. У доповіді Олександр Лисенко з Lyft розповість, як вдалося автоматизувати обробку надзвичайних ситуацій, замінивши ручну реакцію на інтелектуальну систему, здатну розпізнавати критичні події в реальному часі. Lyft працює з неструктурованими текстовими повідомленнями з потоків даних, які раніше оброблялись людьми. Завдяки поетапному підходу — від наївної фільтрації до повноцінної нейронної моделі обробки знань (НКП) — команда навчила машину розуміти зміст, контекст і терміновість повідомлень. Модель була натренована на маркованих даних із реальних кейсів і постійно вдосконалюється через петлю зворотного зв’язку. Спікер покаже архітектуру рішення, ключові виклики та дасть практичні поради — для всіх, хто хоче впровадити NLP у потокову автоматизацію складних процесів.",
+    "extraClasses": ["day2", "architecture"],
+    "speakers": [
+      {
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/6810ec409a26c9382943ef1b_%D0%9B%D0%B8%D1%81%D0%B5%D0%BD%D0%BA%D0%BE.png",
+        "name": "Олександр Лисенко",
+        "position": "SWE, Lyft",
+        "socialLink": "https://dou.ua/users/oleksandr-lisenko/?from=menu-profile"
+      }
+    ]
+  },
       {
     "startTime": "18:00",
     "endTime": "18:30",
