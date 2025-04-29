@@ -1,6 +1,101 @@
 {
   "dou-day-2025": {
     "program": [
+        
+  {
+    "startTime": "11:15",
+    "endTime": "12:00",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-1",
+    "description": "",
+    "extraClasses": ["day2", "main"],
+    "speakers": []
+  },
+  {
+    "startTime": "12:45",
+    "endTime": "13:30",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-2",
+    "description": "",
+    "extraClasses": ["day2", "main"],
+    "speakers": []
+  },
+  {
+    "startTime": "14:15",
+    "endTime": "15:00",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-3",
+    "description": "",
+    "extraClasses": ["day2", "main"],
+    "speakers": []
+  },
+  {
+    "startTime": "15:45",
+    "endTime": "16:30",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-4",
+    "description": "",
+    "extraClasses": ["day2", "main"],
+    "speakers": []
+  },
+  {
+    "startTime": "17:15",
+    "endTime": "18:00",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-5",
+    "description": "",
+    "extraClasses": ["day2", "main"],
+    "speakers": []
+  }
+,
+
+  {
+    "startTime": "15:00",
+    "endTime": "15:45",
+    "stageName": "Architecture Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-6",
+    "description": "",
+    "extraClasses": ["day2", "architecture"],
+    "speakers": []
+  },
+  {
+    "startTime": "15:45",
+    "endTime": "16:30",
+    "stageName": "Software Development Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-7",
+    "description": "",
+    "extraClasses": ["day2", "software"],
+    "speakers": []
+  },
+  {
+    "startTime": "17:15",
+    "endTime": "18:00",
+    "stageName": "Software Development Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-8",
+    "description": "",
+    "extraClasses": ["day2", "software"],
+    "speakers": []
+  },
+  {
+    "startTime": "10:30",
+    "endTime": "11:15",
+    "stageName": "Pro Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-9",
+    "description": "",
+    "extraClasses": ["day2", "pro"],
+    "speakers": []
+  }
+,
+
     
       {
         "startTime": "10:30",
