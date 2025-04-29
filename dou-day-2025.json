@@ -3,314 +3,6 @@
     "program": [
       {
         "startTime": "10:30",
-        "endTime": "11:15",
-        "stageName": "Product and Marketing Stage",
-        "eventTopic": "ROI or Die",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "Бути продуктовим менеджером — це не про виконання задач, це про щоденні інвестиції.\nМакс поділиться власними принципами, які допомагають ухвалювати сильні продуктові та бізнес-рішення: як рахувати ROI, перевіряти гіпотези, будувати моделі, думати через сценарії, ризики й можливості.\n\nЦе буде захоплива історія про відповідальність за результат і про силу, яка виникає, коли замість «я так відчуваю» з’являється «я так порахував». Це не про dry-метрики — це про вплив!",
-        "extraClasses": ["day2", "product"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39743_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%20%D0%91%D1%94%D0%BB%D1%8F%D0%BA.png",
-            "name": "Максим Бєляк",
-            "position": "CPO, Jooble",
-            "socialLink": "https://www.linkedin.com/in/max-belyak/"
-          }
-        ]
-      },
-      {
-        "startTime": "13:30",
-        "endTime": "14:15",
-        "stageName": "Product and Marketing Stage",
-        "eventTopic": "The world changed yesterday: фундаментальні зміни в продуктовому IT",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "Сергій Мацур — CEO COPYMIND — R&D продукту OBRIO. OBRIO — IT-компанія з екосистеми Genesis, що розвиває Nebula — найбільший бренд у сфері spirituality з 60+ млн користувачів та 300+ тіммейтів.\n\nНа DOU DAY Сергій розповість, як AI став новим способом роботи, впливаючи на:\n- створення продуктів за день,\n- автоматизацію без коду,\n- скорочення time-to-market у 10 разів\nта побудову конкурентної переваги через адаптивність та AI-стек.",
-        "extraClasses": ["day2", "product"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39711_imgspicers7.png",
-            "name": "Сергій Мацур",
-            "position": "CEO of COPYMIND (OBRIO | Genesis)",
-            "socialLink": "https://www.linkedin.com/in/serhii-matsur-3394a718b/"
-          }
-        ]
-      },
-      {
-        "startTime": "15:00",
-        "endTime": "15:45",
-        "stageName": "Product and Marketing Stage",
-        "eventTopic": "Побудова Marketing Creative factory, або Як збільшити обсяг протестованих креативів x8 і тестувати їх у 10 разів дешевше",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "На Marketing Stage Катерина Назаренко та Святослав Лунін з appflame розкажуть, що робити, коли команда опиняється у флет-зоні, а звичні інструменти вже не працюють.\n\nНа прикладі трансформації маркетингового підходу поділяться, як запустили фабрику креативів, збільшили обсяг тестів у 8 разів (з 3000 до 27 000 YoY) та здешевили тестування у 10 разів.\n\nТакож розглянуть фреймворк, який допоміг підвищити ефективність на 20% без додаткового бюджету, досягти рекордних бізнес-результатів і водночас зміцнити команду.",
-        "extraClasses": ["day2", "product"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39741_%D0%A1%D0%B2%D1%8F%D1%82%20%D0%9B%D1%83%D0%BD%D1%96%D0%BD.png",
-            "name": "Святослав Лунін",
-            "position": "Head of Performance, Marketing Taimi (appflame)",
-            "socialLink": "https://www.linkedin.com/in/sviatoslav-lunin-973081168/"
-          },
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3973c_%D0%9A%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%20%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE.png",
-            "name": "Катерина Назаренко",
-            "position": "Head of Creative Production, Taimi (appflame)",
-            "socialLink": "https://www.linkedin.com/in/katerynanazarenko/"
-          }
-        ]
-      },
-      {
-        "startTime": "16:30",
-        "endTime": "17:15",
-        "stageName": "Product and Marketing Stage",
-        "eventTopic": "Як одразу робити класний продукт для мільйонів",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "Влада Подкуйко працює в mono вже шість років і на старті роботи не уявляла, як створювати продукти, якими користуються мільйони людей. Коли один з найпопулярніших застосунків у країні розробляє нову фічу, то немає шансу на другу спробу. Вона розповість, які підходи використовує команда та які секретні фішечки має.",
-        "extraClasses": ["day2", "product"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969b_img-sp10.png",
-            "name": "Влада Подкуйко",
-            "position": "Product Owner, mono",
-            "socialLink": "https://www.linkedin.com/in/vladapodkuyko/"
-          }
-        ]
-      },
-      {
-        "startTime": "10:30",
-        "endTime": "11:15",
-        "stageName": "AI and Data Science Stage",
-        "eventTopic": "Від нуля до сингулярності: як виміряти прогрес ШІ-моделей",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "Яка LLM більше підходить для розв’язання математичних і логічних завдань, генерування контенту тощо? У доповіді розглянемо різні способи оцінювання великих мовних моделей, зокрема метрики, бенчмарки, людське оцінювання. А також дослідження, які аналізують неочевидну поведінку та вплив на взаємодію людини і штучного інтелекту.",
-        "extraClasses": ["day2", "ai"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f396a0_img-sp2.png",
-            "name": "Олександр Краковецький",
-            "position": "CEO, DevRain",
-            "socialLink": "https://dou.ua/users/sashaeve/"
-          }
-        ]
-      },
-      {
-        "startTime": "14:15",
-        "endTime": "15:00",
-        "stageName": "AI and Data Science Stage",
-        "eventTopic": "Математика музики: як ми навчаємо ШІ писати хіт",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "Що таке музика з погляду фізики та математики? Як перетворити звук на формули — і створити з них хіт? Які технічні проблеми при цьому можуть виникнути і як їх подолати. Розповімо, як професійно створити музику за допомогою ШІ і чим це відрізнятиметься від масових рішень на кшталт Suno.",
-        "extraClasses": ["day2", "ai"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969d_img-sp.png",
-            "name": "Дмитро Софина",
-            "position": "CEO & Co-founder at R&D Center WINSTARS.AI",
-            "socialLink": "https://www.linkedin.com/in/dmitriy-sofyna/"
-          }
-        ]
-      },
-      {
-        "startTime": "16:30",
-        "endTime": "17:15",
-        "stageName": "AI and Data Science Stage",
-        "eventTopic": "Think Local — AI в Eney, що наближає епоху Software 3.0",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "Поговоримо про локальні моделі на macOS, підходи до створення privacy-first асистента, агентні системи та напрями досліджень, які ми розвиваємо в AIR — AI Research команді MacPaw. Також зачепимо тему AI-стратегії та потрібної для неї структури.",
-        "extraClasses": ["day2", "ai"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39710_imgspicers10.png",
-            "name": "Володимир Кубицький",
-            "position": "Head of AI, MacPaw",
-            "socialLink": "https://dou.ua/users/vova-kubytskyi/"
-          }
-        ]
-      },
-      {
-        "startTime": "17:15",
-        "endTime": "18:00",
-        "stageName": "AI and Data Science Stage",
-        "eventTopic": "AI в освіті",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "",
-        "extraClasses": ["day2", "ai"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
-            "name": "Євген Ковалевський",
-            "position": "VP of Engineering, LetyShops",
-            "socialLink": "https://dou.ua/users/yevgen-kovalevskij/"
-          },
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
-            "name": "Олексій Молчановський",
-            "position": "Директор з інновацій, Український католицький університет",
-            "socialLink": "https://www.linkedin.com/in/olexiim/"
-          }
-          ]
-      },
-      {
-        "startTime": "10:30",
-        "endTime": "11:15",
-        "stageName": "Testing Stage",
-        "eventTopic": "QA ≠ просто тестування задач",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "Багато хто думає, що QA — це просто тестування задач. Але справжній QA — це рушій змін, аналітик, ініціатор фіч і охоронець якості процесів. Свят Логин розкаже, як QA може впливати на продукт, виявляти проблеми до релізу, зберігати гроші проєкту та навіть знаходити слабкі місця в команді. Готові змінити уявлення про тестування?",
-        "extraClasses": ["day2", "testing"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f396a6_img-sp7.png",
-            "name": "Свят Логин",
-            "position": "Head of Engineering Excellence&Quality, EVO",
-            "socialLink": "https://dou.ua/users/svyatoslav-vasilevich/"
-          }
-        ]
-      },
-      {
-        "startTime": "13:30",
-        "endTime": "14:15",
-        "stageName": "Testing Stage",
-        "eventTopic": "Тестування мобільних застосунків на доступність і підготовка до EAA",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "Чи відповідає ваш застосунок стандартам Європейського акту про доступність (EAA), який набуває чинності у червні 2025 року? Приєднайтеся до цієї сесії, щоб дізнатися, як інтегрувати перевірки доступності в мобільний QA-процес, які інструменти використовувати та чому інклюзивність — це не опція, а необхідність.",
-        "extraClasses": ["day2", "testing"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3975f_%D0%95%D0%BB%D1%8C%D0%BD%D0%B0%D1%80%D0%B0%20%D0%90%D1%81%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0.png",
-            "name": "Ельнара Асадова",
-            "position": "QA Lead, SQUAD",
-            "socialLink": "https://dou.ua/users/elnara-asadova/"
-          }
-        ]
-      },
-      {
-        "startTime": "15:45",
-        "endTime": "16:30",
-        "stageName": "Testing Stage",
-        "eventTopic": "Як Vibe Coding змінює роль QA-інженера",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "Vibe Coding — це нова хвиля в ІТ, де гнучкість і швидкість важливіші за формальності. У цьому світі QA — вже не просто тестувальник, а партнер у створенні продукту. QA-фахівці більше не обмежуються тест-кейсами — вони впливають на якість продукту в реальному часі, стратегічно і гнучко.",
-        "extraClasses": ["day2", "testing"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3974e_%D0%9E%D0%BB%D0%B5%D1%81%D1%8F-%D0%9F%D0%B0%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B0.png",
-            "name": "Олеся Паславська",
-            "position": "QA Lead, N-IX",
-            "socialLink": "https://www.linkedin.com/in/olesya-paslavska-4720b545/"
-          }
-        ]
-      },
-      {
-        "startTime": "12:00",
-        "endTime": "12:15",
-        "stageName": "Pro Stage",
-        "eventTopic": "Досвід виходу на індійський ринок розробників: глобальні чинники, стратегія та реальні кейси",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "",
-        "extraClasses": ["day2", "pro"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39712_imgspicers6.png",
-            "name": "Юрій Кушла",
-            "position": "VP New Markets, N-iX",
-            "socialLink": "https://www.linkedin.com/in/yuriy-kushla/"
-          }
-        ]
-      },
-      {
-        "startTime": "12:15",
-        "endTime": "12:30",
-        "stageName": "Pro Stage",
-        "eventTopic": "Як робити продукти для покоління Z",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "",
-        "extraClasses": ["day2", "pro"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39742_%D0%84%D0%B2%D0%B3%D0%B5%D0%BD%20%D0%92%D0%B8%D0%B3%D0%BD%D0%B0%D0%BD.png",
-            "name": "Євген Вигнан",
-            "position": "COO/Co-Founder, appflame",
-            "socialLink": "https://www.linkedin.com/in/jakevygnan/"
-          }
-        ]
-      },
-      {
-        "startTime": "12:30",
-        "endTime": "12:45",
-        "stageName": "Pro Stage",
-        "eventTopic": "Як будувати мости, а не стіни: міжнародний PR для масштабування ІТ-бізнесу",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "",
-        "extraClasses": ["day2", "pro"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39752_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0-%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%83%D1%85%D0%B0.png",
-            "name": "Олександра Говоруха",
-            "position": "Голова з міжнародних корпоративних зв’язків, Sigma Software Group, Амбасадорка ІТ Асоціації України у Великій Британії",
-            "socialLink": "https://www.linkedin.com/in/alexandra-govorukha-127ab534/"
-          }
-        ]
-      },
-      {
-        "startTime": "13:30",
-        "endTime": "14:15",
-        "stageName": "Pro Stage",
-        "eventTopic": "Що коїться з ІТ-наймом в Україні",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "",
-        "extraClasses": ["day2", "pro"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3973a_%D0%9E%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%A0%D1%83%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE.png",
-            "name": "Олена Руденко",
-            "position": "Head of Analytics, Djinni",
-            "socialLink": "https://www.linkedin.com/in/olenarudenko/"
-          },
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39751_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%A8%D0%B0%D1%82%D0%BD%D0%B8%D0%B8%CC%86.png",
-            "name": "Олександр Шатний",
-            "position": "VP HR and Recruitment, N-iX",
-            "socialLink": "https://www.linkedin.com/in/oleksandr-shatnyy-61b6743/"
-          },
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39758_Mask%20group.png",
-            "name": "Антон Фількевич",
-            "position": "Старший директор з залучення талантів в Україні, Болгарії, Румунії, Іспанії, Португалії та Греції, EPAM Systems",
-            "socialLink": "https://www.linkedin.com/in/anton-filkevych-a003261/"
-          },
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
-            "name": "TBA",
-            "position": "",
-            "socialLink": ""
-          }
-        ]
-      },
-      {
-        "startTime": "15:00",
-        "endTime": "15:45",
-        "stageName": "Pro Stage",
-        "eventTopic": "(Не)іронічні поради про розробку, команду та створення продуктів",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "",
-        "extraClasses": ["day2", "pro"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39750_%D0%90%D1%80%D1%82%D0%B5%D0%BC-%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%D1%82%D1%8E%D0%BA.png",
-            "name": "Артем Бородатюк",
-            "position": "Засновник та СЕО, Netpeak Group",
-            "socialLink": "https://www.linkedin.com/in/artem-borodatiuk-18b9986/"
-          },
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
-            "name": "Ілля Філіпов",
-            "position": "Співзасновник та CEO, EdEra",
-            "socialLink": "https://www.linkedin.com/in/illia-filipov-6a0706b4/"
-          }
-        ]
-      },
-      {
-        "startTime": "10:30",
         "endTime": "12:00",
         "stageName": "Main Stage",
         "eventTopic": "«mono, спитать»",
@@ -318,12 +10,6 @@
         "description": "",
         "extraClasses": ["day1", "main"],
         "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39766_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%B5%D0%BD%D0%BA%D0%BE.png",
-            "name": "Юра Федоренко",
-            "position": "Front-end Area Lead, MacPaw",
-            "socialLink": "https://www.instagram.com/rogalskiy/"
-          },
           {
             "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39767_%D0%9E%D0%BB%D0%B5%D0%B3%20%D0%93%D0%BE%D1%80%D0%BE%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B8%CC%86.png",
             "name": "Олег Гороховський",
@@ -335,6 +21,46 @@
             "name": "Михайло Рогальський",
             "position": "Співзасновник групи ІТ-компаній mono (Monobank, Market by mono, Expirenza, monoбізнес та Base)",
             "socialLink": "https://www.instagram.com/rogalskiy/"
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39766_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%B5%D0%BD%D0%BA%D0%BE.png",
+            "name": "Юра Федоренко",
+            "position": "Front-end Area Lead, MacPaw",
+            "socialLink": "https://www.instagram.com/rogalskiy/"
+          }
+        ]
+      },
+      {
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "stageName": "Main Stage",
+        "eventTopic": "TBA",
+        "calendarLink": "https://calendar-link.com/event2",
+        "description": "TBA",
+        "extraClasses": ["day1", "main"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA
+            "position": "TBA",
+            "socialLink": " "
+          }
+        ]
+      },
+      {
+        "startTime": "13:30",
+        "endTime": "14:15",
+        "stageName": "Main Stage",
+        "eventTopic": "TBA",
+        "calendarLink": "https://calendar-link.com/event2",
+        "description": "TBA",
+        "extraClasses": ["day1", "main"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA
+            "position": "TBA",
+            "socialLink": " "
           }
         ]
       },
@@ -348,16 +74,16 @@
         "extraClasses": ["day1", "main"],
         "speakers": [
           {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39763_%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B8%CC%86%20%D0%91%D1%80%D0%BE%D0%B4%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B8%CC%86.png",
-            "name": "Андрій Бродецький",
-            "position": "Інвестиційний аналітик, Horizon Capital",
-            "socialLink": "https://www.linkedin.com/in/andrii-brodetskyi/"
-          },
-          {
             "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3976a_%D0%94%D1%83%D0%BA%D0%B0%D1%87.png",
             "name": "Семен Дукач",
             "position": "Founding Partner, One Way Ventures",
             "socialLink": "https://www.linkedin.com/in/semyondukach/"
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39763_%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B8%CC%86%20%D0%91%D1%80%D0%BE%D0%B4%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B8%CC%86.png",
+            "name": "Андрій Бродецький",
+            "position": "Інвестиційний аналітик, Horizon Capital",
+            "socialLink": "https://www.linkedin.com/in/andrii-brodetskyi/"
           }
         ]
       },
@@ -413,16 +139,8 @@
         "stageName": "Main Stage",
         "eventTopic": "SPECIAL EVENT",
         "calendarLink": "https://calendar-link.com/event2",
-        "description": "TBA",
+        "description": " ",
         "extraClasses": ["day1", "main"],
-        "speakers": [
-          {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
-            "name": "",
-            "position": "",
-            "socialLink": ""
-          }
-        ]
       },
       {
         "startTime": "11:15",
@@ -668,6 +386,320 @@
     }
   ]
 },
+      {
+        "startTime": "10:30",
+        "endTime": "11:15",
+        "stageName": "Product and Marketing Stage",
+        "eventTopic": "ROI or Die",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Бути продуктовим менеджером — це не про виконання задач, це про щоденні інвестиції.\nМакс поділиться власними принципами, які допомагають ухвалювати сильні продуктові та бізнес-рішення: як рахувати ROI, перевіряти гіпотези, будувати моделі, думати через сценарії, ризики й можливості.\n\nЦе буде захоплива історія про відповідальність за результат і про силу, яка виникає, коли замість «я так відчуваю» з’являється «я так порахував». Це не про dry-метрики — це про вплив!",
+        "extraClasses": ["day2", "product"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39743_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%20%D0%91%D1%94%D0%BB%D1%8F%D0%BA.png",
+            "name": "Максим Бєляк",
+            "position": "CPO, Jooble",
+            "socialLink": "https://www.linkedin.com/in/max-belyak/"
+          }
+        ]
+      },
+      {
+        "startTime": "13:30",
+        "endTime": "14:15",
+        "stageName": "Product and Marketing Stage",
+        "eventTopic": "The world changed yesterday: фундаментальні зміни в продуктовому IT",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Сергій Мацур — CEO COPYMIND — R&D продукту OBRIO. OBRIO — IT-компанія з екосистеми Genesis, що розвиває Nebula — найбільший бренд у сфері spirituality з 60+ млн користувачів та 300+ тіммейтів.\n\nНа DOU DAY Сергій розповість, як AI став новим способом роботи, впливаючи на:\n- створення продуктів за день,\n- автоматизацію без коду,\n- скорочення time-to-market у 10 разів\nта побудову конкурентної переваги через адаптивність та AI-стек.",
+        "extraClasses": ["day2", "product"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39711_imgspicers7.png",
+            "name": "Сергій Мацур",
+            "position": "CEO of COPYMIND (OBRIO | Genesis)",
+            "socialLink": "https://www.linkedin.com/in/serhii-matsur-3394a718b/"
+          }
+        ]
+      },
+      {
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "stageName": "Product and Marketing Stage",
+        "eventTopic": "Побудова Marketing Creative factory, або Як збільшити обсяг протестованих креативів x8 і тестувати їх у 10 разів дешевше",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "На Marketing Stage Катерина Назаренко та Святослав Лунін з appflame розкажуть, що робити, коли команда опиняється у флет-зоні, а звичні інструменти вже не працюють.\n\nНа прикладі трансформації маркетингового підходу поділяться, як запустили фабрику креативів, збільшили обсяг тестів у 8 разів (з 3000 до 27 000 YoY) та здешевили тестування у 10 разів.\n\nТакож розглянуть фреймворк, який допоміг підвищити ефективність на 20% без додаткового бюджету, досягти рекордних бізнес-результатів і водночас зміцнити команду.",
+        "extraClasses": ["day2", "product"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39741_%D0%A1%D0%B2%D1%8F%D1%82%20%D0%9B%D1%83%D0%BD%D1%96%D0%BD.png",
+            "name": "Святослав Лунін",
+            "position": "Head of Performance, Marketing Taimi (appflame)",
+            "socialLink": "https://www.linkedin.com/in/sviatoslav-lunin-973081168/"
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3973c_%D0%9A%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%20%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE.png",
+            "name": "Катерина Назаренко",
+            "position": "Head of Creative Production, Taimi (appflame)",
+            "socialLink": "https://www.linkedin.com/in/katerynanazarenko/"
+          }
+        ]
+      },
+      {
+        "startTime": "16:30",
+        "endTime": "17:15",
+        "stageName": "Product and Marketing Stage",
+        "eventTopic": "Як одразу робити класний продукт для мільйонів",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Влада Подкуйко працює в mono вже шість років і на старті роботи не уявляла, як створювати продукти, якими користуються мільйони людей. Коли один з найпопулярніших застосунків у країні розробляє нову фічу, то немає шансу на другу спробу. Вона розповість, які підходи використовує команда та які секретні фішечки має.",
+        "extraClasses": ["day2", "product"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969b_img-sp10.png",
+            "name": "Влада Подкуйко",
+            "position": "Product Owner, mono",
+            "socialLink": "https://www.linkedin.com/in/vladapodkuyko/"
+          }
+        ]
+      },
+      {
+        "startTime": "10:30",
+        "endTime": "11:15",
+        "stageName": "AI and Data Science Stage",
+        "eventTopic": "Від нуля до сингулярності: як виміряти прогрес ШІ-моделей",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Яка LLM більше підходить для розв’язання математичних і логічних завдань, генерування контенту тощо? У доповіді розглянемо різні способи оцінювання великих мовних моделей, зокрема метрики, бенчмарки, людське оцінювання. А також дослідження, які аналізують неочевидну поведінку та вплив на взаємодію людини і штучного інтелекту.",
+        "extraClasses": ["day2", "ai"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f396a0_img-sp2.png",
+            "name": "Олександр Краковецький",
+            "position": "CEO, DevRain",
+            "socialLink": "https://dou.ua/users/sashaeve/"
+          }
+        ]
+      },
+      {
+        "startTime": "14:15",
+        "endTime": "15:00",
+        "stageName": "AI and Data Science Stage",
+        "eventTopic": "Математика музики: як ми навчаємо ШІ писати хіт",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Що таке музика з погляду фізики та математики? Як перетворити звук на формули — і створити з них хіт? Які технічні проблеми при цьому можуть виникнути і як їх подолати. Розповімо, як професійно створити музику за допомогою ШІ і чим це відрізнятиметься від масових рішень на кшталт Suno.",
+        "extraClasses": ["day2", "ai"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969d_img-sp.png",
+            "name": "Дмитро Софина",
+            "position": "CEO & Co-founder at R&D Center WINSTARS.AI",
+            "socialLink": "https://www.linkedin.com/in/dmitriy-sofyna/"
+          }
+        ]
+      },
+      {
+        "startTime": "16:30",
+        "endTime": "17:15",
+        "stageName": "AI and Data Science Stage",
+        "eventTopic": "Think Local — AI в Eney, що наближає епоху Software 3.0",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Поговоримо про локальні моделі на macOS, підходи до створення privacy-first асистента, агентні системи та напрями досліджень, які ми розвиваємо в AIR — AI Research команді MacPaw. Також зачепимо тему AI-стратегії та потрібної для неї структури.",
+        "extraClasses": ["day2", "ai"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39710_imgspicers10.png",
+            "name": "Володимир Кубицький",
+            "position": "Head of AI, MacPaw",
+            "socialLink": "https://dou.ua/users/vova-kubytskyi/"
+          }
+        ]
+      },
+      {
+        "startTime": "17:15",
+        "endTime": "18:00",
+        "stageName": "AI and Data Science Stage",
+        "eventTopic": "AI в освіті",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "",
+        "extraClasses": ["day2", "ai"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/680f2dba9f9bd12793100b1b_%D0%9C%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B8%CC%86.png",
+            "name": "Олексій Молчановський",
+            "position": "Директор з інновацій, Український католицький університет",
+            "socialLink": "https://www.linkedin.com/in/olexiim/"
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA
+            "position": "TBA",
+            "socialLink": " "
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "Євген Ковалевський",
+            "position": "VP of Engineering, LetyShops",
+            "socialLink": "https://dou.ua/users/yevgen-kovalevskij/"
+          }
+          ]
+      },
+      {
+        "startTime": "10:30",
+        "endTime": "11:15",
+        "stageName": "Testing Stage",
+        "eventTopic": "QA ≠ просто тестування задач",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Багато хто думає, що QA — це просто тестування задач. Але справжній QA — це рушій змін, аналітик, ініціатор фіч і охоронець якості процесів. Свят Логин розкаже, як QA може впливати на продукт, виявляти проблеми до релізу, зберігати гроші проєкту та навіть знаходити слабкі місця в команді. Готові змінити уявлення про тестування?",
+        "extraClasses": ["day2", "testing"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f396a6_img-sp7.png",
+            "name": "Свят Логин",
+            "position": "Head of Engineering Excellence&Quality, EVO",
+            "socialLink": "https://dou.ua/users/svyatoslav-vasilevich/"
+          }
+        ]
+      },
+      {
+        "startTime": "13:30",
+        "endTime": "14:15",
+        "stageName": "Testing Stage",
+        "eventTopic": "Тестування мобільних застосунків на доступність і підготовка до EAA",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Чи відповідає ваш застосунок стандартам Європейського акту про доступність (EAA), який набуває чинності у червні 2025 року? Приєднайтеся до цієї сесії, щоб дізнатися, як інтегрувати перевірки доступності в мобільний QA-процес, які інструменти використовувати та чому інклюзивність — це не опція, а необхідність.",
+        "extraClasses": ["day2", "testing"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3975f_%D0%95%D0%BB%D1%8C%D0%BD%D0%B0%D1%80%D0%B0%20%D0%90%D1%81%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0.png",
+            "name": "Ельнара Асадова",
+            "position": "QA Lead, SQUAD",
+            "socialLink": "https://dou.ua/users/elnara-asadova/"
+          }
+        ]
+      },
+      {
+        "startTime": "15:45",
+        "endTime": "16:30",
+        "stageName": "Testing Stage",
+        "eventTopic": "Як Vibe Coding змінює роль QA-інженера",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "Vibe Coding — це нова хвиля в ІТ, де гнучкість і швидкість важливіші за формальності. У цьому світі QA — вже не просто тестувальник, а партнер у створенні продукту. QA-фахівці більше не обмежуються тест-кейсами — вони впливають на якість продукту в реальному часі, стратегічно і гнучко.",
+        "extraClasses": ["day2", "testing"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3974e_%D0%9E%D0%BB%D0%B5%D1%81%D1%8F-%D0%9F%D0%B0%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B0.png",
+            "name": "Олеся Паславська",
+            "position": "QA Lead, N-IX",
+            "socialLink": "https://www.linkedin.com/in/olesya-paslavska-4720b545/"
+          }
+        ]
+      },
+      {
+        "startTime": "12:00",
+        "endTime": "12:15",
+        "stageName": "Pro Stage",
+        "eventTopic": "Досвід виходу на індійський ринок розробників: глобальні чинники, стратегія та реальні кейси",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "",
+        "extraClasses": ["day2", "pro"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39712_imgspicers6.png",
+            "name": "Юрій Кушла",
+            "position": "VP New Markets, N-iX",
+            "socialLink": "https://www.linkedin.com/in/yuriy-kushla/"
+          }
+        ]
+      },
+      {
+        "startTime": "12:15",
+        "endTime": "12:30",
+        "stageName": "Pro Stage",
+        "eventTopic": "Як робити продукти для покоління Z",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "",
+        "extraClasses": ["day2", "pro"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39742_%D0%84%D0%B2%D0%B3%D0%B5%D0%BD%20%D0%92%D0%B8%D0%B3%D0%BD%D0%B0%D0%BD.png",
+            "name": "Євген Вигнан",
+            "position": "COO/Co-Founder, appflame",
+            "socialLink": "https://www.linkedin.com/in/jakevygnan/"
+          }
+        ]
+      },
+      {
+        "startTime": "12:30",
+        "endTime": "12:45",
+        "stageName": "Pro Stage",
+        "eventTopic": "Як будувати мости, а не стіни: міжнародний PR для масштабування ІТ-бізнесу",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "",
+        "extraClasses": ["day2", "pro"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39752_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0-%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%83%D1%85%D0%B0.png",
+            "name": "Олександра Говоруха",
+            "position": "Голова з міжнародних корпоративних зв’язків, Sigma Software Group, Амбасадорка ІТ Асоціації України у Великій Британії",
+            "socialLink": "https://www.linkedin.com/in/alexandra-govorukha-127ab534/"
+          }
+        ]
+      },
+      {
+        "startTime": "13:30",
+        "endTime": "14:15",
+        "stageName": "Pro Stage",
+        "eventTopic": "Що коїться з ІТ-наймом в Україні",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "",
+        "extraClasses": ["day2", "pro"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39751_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%A8%D0%B0%D1%82%D0%BD%D0%B8%D0%B8%CC%86.png",
+            "name": "Олександр Шатний",
+            "position": "VP HR and Recruitment, N-iX",
+            "socialLink": "https://www.linkedin.com/in/oleksandr-shatnyy-61b6743/"
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39758_Mask%20group.png",
+            "name": "Антон Фількевич",
+            "position": "Старший директор з залучення талантів в Україні, Болгарії, Румунії, Іспанії, Португалії та Греції, EPAM Systems",
+            "socialLink": "https://www.linkedin.com/in/anton-filkevych-a003261/"
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "",
+            "socialLink": ""
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3973a_%D0%9E%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%A0%D1%83%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE.png",
+            "name": "Олена Руденко",
+            "position": "Head of Analytics, Djinni",
+            "socialLink": "https://www.linkedin.com/in/olenarudenko/"
+          }
+        ]
+      },
+      {
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "stageName": "Pro Stage",
+        "eventTopic": "(Не)іронічні поради про розробку, команду та створення продуктів",
+        "calendarLink": "https://calendar-link.com/event-new",
+        "description": "",
+        "extraClasses": ["day2", "pro"],
+        "speakers": [
+          {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39750_%D0%90%D1%80%D1%82%D0%B5%D0%BC-%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%D1%82%D1%8E%D0%BA.png",
+            "name": "Артем Бородатюк",
+            "position": "Засновник та СЕО, Netpeak Group",
+            "socialLink": "https://www.linkedin.com/in/artem-borodatiuk-18b9986/"
+          },
+          {
+            "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/680f7a34cc6b634f5d898db8_%D0%A4%D1%96%D0%BB%D1%96%D0%BF%D0%BE%D0%B2.png",
+            "name": "Ілля Філіпов",
+            "position": "Співзасновник та CEO, EdEra",
+            "socialLink": "https://www.linkedin.com/in/illia-filipov-6a0706b4/"
+          }
+        ]
+      },
 {
   "startTime": "10:30",
   "endTime": "11:15",
@@ -763,22 +795,22 @@
   "extraClasses": ["day1", "ai"],
   "speakers": [
     {
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+      "name": "TBA",
+      "position": "TBA",
+      "socialLink": "TBA"
+    },
+    {
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+      "name": "TBA",
+      "position": "TBA",
+      "socialLink": "TBA"
+    },
+    {
       "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39756_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%20%D0%9A%D0%B8%D1%81%D0%BB%D0%B8%D0%B8%CC%86.png",
       "name": "Роман Кислий",
       "position": "Старший Викладач, КПІ, Ведучий AI House подкасту",
       "socialLink": "https://www.linkedin.com/in/romankyslyi/"
-    },
-    {
-      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
-      "name": "TBA",
-      "position": "TBA",
-      "socialLink": "TBA"
-    },
-    {
-      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
-      "name": "TBA",
-      "position": "TBA",
-      "socialLink": "TBA"
     }
   ]
 },
@@ -826,29 +858,29 @@
   "extraClasses": ["day1", "pro"],
   "speakers": [
     {
-      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
-      "name": "Ася Артушевська",
-      "position": "Lead Editor, DOU",
-      "socialLink": "https://dou.ua/users/asya-harbuzova-1/"
-    },
-    {
-      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/680f7a344f96a3ce8e8d8a12_%D0%91%D0%B0%D1%87%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B8%CC%86.png",
       "name": "Євгеній Бачинський",
       "position": "Head of Management Consultancy, SoftServe",
       "socialLink": "https://www.linkedin.com/in/bachinskiy/"
     },
     {
-      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39757_%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%20%D0%9C%D1%96%D1%82%D1%96%D1%88.png",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6808a8434b363a6d08f946a3_%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%20%D0%9C%D1%96%D1%82%D1%96%D1%88.png",
       "name": "Степан Мітіш",
       "position": "VP, Country Head, EPAM Systems",
       "socialLink": "https://www.linkedin.com/in/stepanmitish/"
     },
     {
-      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/680f7a3512268f2e6fd1bc37_%D0%A1%D0%B5%D0%B4%D0%BB%D0%B5%D1%80.png",
       "name": "Віталій Седлер",
       "position": "Co-Founder та CEO, Intellias",
       "socialLink": "https://www.linkedin.com/in/vitaly-sedler-0b507a2/"
-    }
+    },
+    {
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+      "name": "Ася Артушевська",
+      "position": "Lead Editor, DOU",
+      "socialLink": "https://dou.ua/users/asya-harbuzova-1/"
+    },
   ]
 },
 {
@@ -861,23 +893,23 @@
   "extraClasses": ["day1", "pro"],
   "speakers": [
     {
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+      "name": "TBA",
+      "position": "TBA",
+      "socialLink": ""
+    },
+    {
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+      "name": "TBA",
+      "position": "TBA",
+      "socialLink": ""
+    },
+    {
       "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39754_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD-%D0%90%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB.png",
       "name": "Роман Апостол",
       "position": "СEO та Co-Founder, Mate academy",
       "socialLink": "https://dou.ua/users/asya-harbuzova-1/"
     },
-    {
-      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
-      "name": "TBA",
-      "position": "TBA",
-      "socialLink": ""
-    },
-    {
-      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
-      "name": "TBA",
-      "position": "TBA",
-      "socialLink": ""
-    }
   ]
 },
 {
@@ -924,12 +956,6 @@
   "extraClasses": ["day1", "pro"],
   "speakers": [
     {
-      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
-      "name": "Євген Ковалевський",
-      "position": "VP of Engineering, LetyShops",
-      "socialLink": "https://dou.ua/users/yevgen-kovalevskij/"
-    },
-    {
       "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39760_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%20%D0%93%D1%80%D0%B8%D1%86%D0%B5%D0%BD%D0%BA%D0%BE.png",
       "name": "Валентин Гриценко",
       "position": "Chief Marketing Officer, Ajax Systems",
@@ -942,23 +968,29 @@
       "socialLink": "https://www.linkedin.com/in/taras-goshovskyi/"
     },
     {
-      "photo": "TBA",
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
       "name": "TBA",
       "position": "TBA",
       "socialLink": "TBA"
     },
     {
-      "photo": "TBA",
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
       "name": "TBA",
       "position": "TBA",
       "socialLink": "TBA"
+    },
+    {
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/680f7a35af33419b7526174a_%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B8%CC%86.png",
+      "name": "Євген Ковалевський",
+      "position": "VP of Engineering, LetyShops",
+      "socialLink": "https://dou.ua/users/yevgen-kovalevskij/"
     }
   ]
 },
 {
   "startTime": "12:45",
   "endTime": "13:30",
-  "stageName": "GameDev corner",
+  "stageName": "GameDev-corner",
   "eventTopic": "RAID: Shadow Legends у хмарі: як ми мігрували гру зі 100 млн гравців за 45 хвилин",
   "calendarLink": "https://calendar-link.com/event2",
   "description": "Павло Матлашов, Head of Technology Division у Plarium, поділиться історією про те, як його команда перенесла сервери RAID: Shadow Legends у нову інфраструктуру Google Cloud Platform. Підготовка тривала пів року, а до процесу були залучені 35 спеціалістів. У доповіді Павло розповість, чому вирішили переносити проєкт у хмару, які виклики вдалося подолати команді та які підходи зменшили очікуваний даунтайм із 6 годин до 45 хвилин.",
@@ -1077,7 +1109,7 @@
   {
   "startTime": "11:15",
   "endTime": "12:00",
-  "stageName": "GameDev corner",
+  "stageName": "GameDev-corner",
   "eventTopic": "Доступність в Assassin's Creed Shadows",
   "calendarLink": "https://calendar-link.com/event-new",
   "description": "У доповіді спікер розгляне функції доступності, реалізовані в грі Assassin's Creed Shadows, із фокусом на адаптації для гравців із когнітивними порушеннями, порушеннями зору, слуху та моторики.\n\nПроаналізує, як інтерфейс, геймплейні механіки та аудіовізуальні налаштування сприяють інклюзивності. І розгляне нововведення серії та їхній вплив на доступність гри.",
@@ -1100,7 +1132,7 @@
 {
   "startTime": "14:15",
   "endTime": "15:00",
-  "stageName": "GameDev corner",
+  "stageName": "GameDev-corner",
   "eventTopic": "UE Automation: як ігри грають самі в себе ночами",
   "calendarLink": "https://calendar-link.com/event2",
   "description": "Доповідь про те, як автоматизувати тестування і вимірювання перфомансу в Unreal Engine без залучення людей. Як налаштувати процеси, щоб ігри самостійно проходили тести, збирали дані й допомагали команді знаходити проблеми ще до початку робочого дня.",
