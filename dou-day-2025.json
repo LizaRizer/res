@@ -2,16 +2,6 @@
   "dou-day-2025": {
     "program": [
       {
-        "startTime": "08:30",
-        "endTime": "",
-        "stageName": "",
-        "eventTopic": "Реєстрація",
-        "calendarLink": "https://calendar-link.com/event-new",
-        "description": "",
-        "extraClasses": ["day1", "day2"],
-        "speakers": []
-      },
-      {
         "startTime": "10:30",
         "endTime": "12:00",
         "stageName": "Main Stage",
