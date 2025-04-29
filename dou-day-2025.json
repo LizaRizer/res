@@ -82,6 +82,7 @@
           {
             "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39763_%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B8%CC%86%20%D0%91%D1%80%D0%BE%D0%B4%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B8%CC%86.png",
             "name": "Андрій Бродецький",
+            "addinfo": "інтерв'юєр",
             "position": "Інвестиційний аналітик, Horizon Capital",
             "socialLink": "https://www.linkedin.com/in/andrii-brodetskyi/"
           }
@@ -535,6 +536,7 @@
           {
             "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
             "name": "Євген Ковалевський",
+            "addinfo": "модератор",
             "position": "VP of Engineering, LetyShops",
             "socialLink": "https://dou.ua/users/yevgen-kovalevskij/"
           }
@@ -672,6 +674,7 @@
           {
             "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3973a_%D0%9E%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%A0%D1%83%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE.png",
             "name": "Олена Руденко",
+            "addinfo": "модератор",
             "position": "Head of Analytics, Djinni",
             "socialLink": "https://www.linkedin.com/in/olenarudenko/"
           }
@@ -809,6 +812,7 @@
     {
       "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39756_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%20%D0%9A%D0%B8%D1%81%D0%BB%D0%B8%D0%B8%CC%86.png",
       "name": "Роман Кислий",
+      "addinfo": "модератор",
       "position": "Старший Викладач, КПІ, Ведучий AI House подкасту",
       "socialLink": "https://www.linkedin.com/in/romankyslyi/"
     }
@@ -878,6 +882,7 @@
     {
       "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
       "name": "Ася Артушевська",
+      "addinfo": "модератор",
       "position": "Lead Editor, DOU",
       "socialLink": "https://dou.ua/users/asya-harbuzova-1/"
     }
@@ -907,6 +912,7 @@
     {
       "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39754_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD-%D0%90%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB.png",
       "name": "Роман Апостол",
+      "addinfo": "модератор",
       "position": "СEO та Co-Founder, Mate academy",
       "socialLink": "https://dou.ua/users/asya-harbuzova-1/"
     }
@@ -982,6 +988,7 @@
     {
       "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/680f7a35af33419b7526174a_%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B8%CC%86.png",
       "name": "Євген Ковалевський",
+      "addinfo": "модератор",
       "position": "VP of Engineering, LetyShops",
       "socialLink": "https://dou.ua/users/yevgen-kovalevskij/"
     }
