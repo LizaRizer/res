@@ -77,7 +77,14 @@
     "calendarLink": "",
     "description": " ",
     "extraClasses": ["day2", "all-stages"],
-    "speakers": []
+    "speakers": [
+ {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "TBA",
+            "socialLink": " "
+          }
+]
   },
   {
     "startTime": "18:30",
@@ -86,7 +93,14 @@
     "calendarLink": "",
     "description": " ",
     "extraClasses": ["day2", "all-stages"],
-    "speakers": []
+    "speakers": [
+ {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "TBA",
+            "socialLink": " "
+          }
+]
   },
         
   {
@@ -97,7 +111,14 @@
     "calendarLink": "https://calendar-link.com/event-1",
     "description": "",
     "extraClasses": ["day2", "main"],
-    "speakers": []
+    "speakers": [
+ {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "TBA",
+            "socialLink": " "
+          }
+]
   },
   {
     "startTime": "12:45",
@@ -107,7 +128,14 @@
     "calendarLink": "https://calendar-link.com/event-2",
     "description": "",
     "extraClasses": ["day2", "main"],
-    "speakers": []
+    "speakers": [
+ {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "TBA",
+            "socialLink": " "
+          }
+]
   },
   {
     "startTime": "14:15",
@@ -117,7 +145,14 @@
     "calendarLink": "https://calendar-link.com/event-3",
     "description": "",
     "extraClasses": ["day2", "main"],
-    "speakers": []
+    "speakers": [
+ {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "TBA",
+            "socialLink": " "
+          }
+]
   },
   {
     "startTime": "15:45",
@@ -127,7 +162,14 @@
     "calendarLink": "https://calendar-link.com/event-4",
     "description": "",
     "extraClasses": ["day2", "main"],
-    "speakers": []
+    "speakers": [
+ {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "TBA",
+            "socialLink": " "
+          }
+]
   },
   {
     "startTime": "17:15",
@@ -137,7 +179,14 @@
     "calendarLink": "https://calendar-link.com/event-5",
     "description": "",
     "extraClasses": ["day2", "main"],
-    "speakers": []
+    "speakers": [
+ {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "TBA",
+            "socialLink": " "
+          }
+]
   }
 ,
 
@@ -149,7 +198,14 @@
     "calendarLink": "https://calendar-link.com/event-6",
     "description": "",
     "extraClasses": ["day2", "architecture"],
-    "speakers": []
+    "speakers": [
+ {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "TBA",
+            "socialLink": " "
+          }
+]
   },
   {
     "startTime": "15:45",
@@ -159,7 +215,14 @@
     "calendarLink": "https://calendar-link.com/event-7",
     "description": "",
     "extraClasses": ["day2", "software"],
-    "speakers": []
+    "speakers": [
+ {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "TBA",
+            "socialLink": " "
+          }
+]
   },
   {
     "startTime": "17:15",
@@ -169,7 +232,14 @@
     "calendarLink": "https://calendar-link.com/event-8",
     "description": "",
     "extraClasses": ["day2", "software"],
-    "speakers": []
+    "speakers": [
+ {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "TBA",
+            "socialLink": " "
+          }
+]
   },
   {
     "startTime": "10:30",
@@ -179,7 +249,14 @@
     "calendarLink": "https://calendar-link.com/event-9",
     "description": "",
     "extraClasses": ["day2", "pro"],
-    "speakers": []
+    "speakers": [
+ {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "TBA",
+            "socialLink": " "
+          }
+]
   }
 ,
 
@@ -802,7 +879,14 @@
   "calendarLink": "https://calendar-link.com/event-10",
   "description": "",
   "extraClasses": ["day2", "pro"],
-  "speakers": []
+  "speakers": [
+ {
+            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+            "name": "TBA",
+            "position": "TBA",
+            "socialLink": " "
+          }
+]
 },
       {
         "startTime": "12:15",
