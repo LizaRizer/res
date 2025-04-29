@@ -1,6 +1,26 @@
 {
   "dou-day-2025": {
     "program": [
+
+      {
+    "startTime": "18:00",
+    "endTime": "18:30",
+    "stageName": "All Stages",
+    "eventTopic": "Закриття",
+    "calendarLink": "",
+    "description": " ",
+    "extraClasses": ["day2", "all-stages"],
+    "speakers": []
+  },
+  {
+    "startTime": "18:30",
+    "stageName": "All Stages",
+    "eventTopic": "Концерт Курганів",
+    "calendarLink": "",
+    "description": " ",
+    "extraClasses": ["day2", "all-stages"],
+    "speakers": []
+  },
         
   {
     "startTime": "11:15",
