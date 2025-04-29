@@ -1,6 +1,101 @@
 {
   "dou-day-2025": {
     "program": [
+      [
+  {
+    "startTime": "11:15",
+    "endTime": "12:00",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-1",
+    "description": "",
+    "extraClasses": ["day2", "main"],
+    "speakers": []
+  },
+  {
+    "startTime": "12:45",
+    "endTime": "13:30",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-2",
+    "description": "",
+    "extraClasses": ["day2", "main"],
+    "speakers": []
+  },
+  {
+    "startTime": "14:15",
+    "endTime": "15:00",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-3",
+    "description": "",
+    "extraClasses": ["day2", "main"],
+    "speakers": []
+  },
+  {
+    "startTime": "15:45",
+    "endTime": "16:30",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-4",
+    "description": "",
+    "extraClasses": ["day2", "main"],
+    "speakers": []
+  },
+  {
+    "startTime": "17:15",
+    "endTime": "18:00",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-5",
+    "description": "",
+    "extraClasses": ["day2", "main"],
+    "speakers": []
+  }
+],
+[
+  {
+    "startTime": "15:00",
+    "endTime": "15:45",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-6",
+    "description": "",
+    "extraClasses": ["day2", "architecture"],
+    "speakers": []
+  },
+  {
+    "startTime": "15:45",
+    "endTime": "16:30",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-7",
+    "description": "",
+    "extraClasses": ["day2", "software"],
+    "speakers": []
+  },
+  {
+    "startTime": "17:15",
+    "endTime": "18:00",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-8",
+    "description": "",
+    "extraClasses": ["day2", "software"],
+    "speakers": []
+  },
+  {
+    "startTime": "10:30",
+    "endTime": "11:15",
+    "stageName": "Main Stage",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-9",
+    "description": "",
+    "extraClasses": ["day2", "pro"],
+    "speakers": []
+  }
+],
+
       {
         "startTime": "10:30",
         "endTime": "12:00",
@@ -26,7 +121,7 @@
             "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39766_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%B5%D0%BD%D0%BA%D0%BE.png",
             "name": "Юра Федоренко",
             "position": "Front-end Area Lead, MacPaw",
-            "socialLink": "https://www.instagram.com/rogalskiy/"
+            "socialLink": "https://dou.ua/users/yurafedorenko/"
           }
         ]
       },
@@ -914,7 +1009,7 @@
       "name": "Роман Апостол",
       "addinfo": "модератор",
       "position": "СEO та Co-Founder, Mate academy",
-      "socialLink": "https://dou.ua/users/asya-harbuzova-1/"
+      "socialLink": "https://t.me/roman_apostol"
     }
   ]
 },
@@ -928,7 +1023,7 @@
   "extraClasses": ["day1", "pro"],
   "speakers": [
     {
-      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969c_img-sp11.png",
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3974d_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%9C%D0%B0%D0%B7%D1%83%D1%80.png",
       "name": "Олександр Мазур",
       "position": "Директор департаменту розвитку та підтримки цифрових технологій, МХП",
       "socialLink": "https://www.linkedin.com/in/oleksandr-mazur-27494997/"
@@ -1146,7 +1241,7 @@
   "extraClasses": ["day1", "gamedev"],
   "speakers": [
     {
-      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969c_img-sp11.png",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/680f7a34879bd1e9e0a577ea_%D0%9B%D1%83%D0%B6%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B8%CC%86.png",
       "name": "Микита Лужанський",
       "position": "Unreal Engine Developer, Pingle Studio",
       "socialLink": "https://dou.ua/users/nikita-luzhanskiy/"
