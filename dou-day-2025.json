@@ -1,9 +1,37 @@
 {
   "dou-day-2025": {
     "program": [
+        {
+    "startTime": "08:30",
+    "stageName": "Main Stage",
+    "eventTopic": "Реєстрація",
+    "calendarLink": "",
+    "description": " ",
+    "extraClasses": ["day1", "main"],
+    "speakers": []
+  },
+  {
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "stageName": "Main Stage",
+    "eventTopic": "Відкриття",
+    "calendarLink": "",
+    "description": " ",
+    "extraClasses": ["day1", "main"],
+    "speakers": []
+  },
+  {
+    "startTime": "08:30",
+    "stageName": "Main Stage",
+    "eventTopic": "Реєстрація",
+    "calendarLink": "",
+    "description": " ",
+    "extraClasses": ["day2", "main"],
+    "speakers": []
+  },
  {
-    "startTime": "14:15",
-    "endTime": "15:00",
+    "startTime": "15:00",
+    "endTime": "15:45",
     "stageName": "Main Stage",
     "eventTopic": "TBA",
     "calendarLink": "https://www.linkedin.com/in/andrii-prepiialo/",
@@ -55,11 +83,11 @@
   {
     "startTime": "16:30",
     "endTime": "17:15",
-    "stageName": "Architecture Stage",
+    "stageName": "AI and Data Science Stage",
     "eventTopic": "Автоматизація реагування на надзвичайні ситуації за допомогою NLP: шлях від ручної роботи до машинного розуміння",
     "calendarLink": "https://dou.ua/users/oleksandr-lisenko/?from=menu-profile",
     "description": "Ця презентація — про трансформацію. У доповіді Олександр Лисенко з Lyft розповість, як вдалося автоматизувати обробку надзвичайних ситуацій, замінивши ручну реакцію на інтелектуальну систему, здатну розпізнавати критичні події в реальному часі. Lyft працює з неструктурованими текстовими повідомленнями з потоків даних, які раніше оброблялись людьми. Завдяки поетапному підходу — від наївної фільтрації до повноцінної нейронної моделі обробки знань (НКП) — команда навчила машину розуміти зміст, контекст і терміновість повідомлень. Модель була натренована на маркованих даних із реальних кейсів і постійно вдосконалюється через петлю зворотного зв’язку. Спікер покаже архітектуру рішення, ключові виклики та дасть практичні поради — для всіх, хто хоче впровадити NLP у потокову автоматизацію складних процесів.",
-    "extraClasses": ["day2", "architecture"],
+    "extraClasses": ["day2", "ai"],
     "speakers": [
       {
         "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/6810ec409a26c9382943ef1b_%D0%9B%D0%B8%D1%81%D0%B5%D0%BD%D0%BA%D0%BE.png",
@@ -72,20 +100,20 @@
       {
     "startTime": "18:00",
     "endTime": "18:30",
-    "stageName": "All Stages",
+    "stageName": "Main Stage",
     "eventTopic": "Закриття",
     "calendarLink": "",
     "description": " ",
-    "extraClasses": ["day2", "all-stages"],
+    "extraClasses": ["day2", "main"],
     "speakers": []
   },
   {
     "startTime": "18:30",
-    "stageName": "All Stages",
+    "stageName": "Main Stage",
     "eventTopic": "Концерт Курганів",
     "calendarLink": "",
     "description": " ",
-    "extraClasses": ["day2", "all-stages"],
+    "extraClasses": ["day2", "main"],
     "speakers": []
   },
         
@@ -177,23 +205,6 @@
 ,
 
   {
-    "startTime": "15:00",
-    "endTime": "15:45",
-    "stageName": "Architecture Stage",
-    "eventTopic": "TBA",
-    "calendarLink": "https://calendar-link.com/event-6",
-    "description": "",
-    "extraClasses": ["day2", "architecture"],
-    "speakers": [
- {
-            "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
-            "name": "TBA",
-            "position": "TBA",
-            "socialLink": " "
-          }
-]
-  },
-  {
     "startTime": "15:45",
     "endTime": "16:30",
     "stageName": "Software Development Stage",
@@ -249,7 +260,7 @@
     
       {
         "startTime": "10:30",
-        "endTime": "12:00",
+        "endTime": "11:15",
         "stageName": "Main Stage",
         "eventTopic": "«mono, спитать»",
         "calendarLink": "https://calendar-link.com/event2",
@@ -383,7 +394,7 @@
       },
       {
         "startTime": "18:00",
-        "endTime": "18:30",
+        "endTime": "18:45",
         "stageName": "Main Stage",
         "eventTopic": "SPECIAL EVENT",
         "calendarLink": "https://calendar-link.com/event2",
@@ -419,7 +430,7 @@
           {
             "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3969c_img-sp11.png",
             "name": "Артем Грицаєнко",
-            "position": "Head of Engineering, Headway (AddMile)",
+            "position": "Head of Engineering у AddMile (Headway Inc)",
             "socialLink": "https://dou.ua/users/artem-grytsaienko/"
           }
         ]
@@ -519,7 +530,7 @@
         "startTime": "16:30",
         "endTime": "17:15",
         "stageName": "Software Development Stage",
-        "eventTopic": "Великий вихід з хайперскейлерів. Стратегія міграції інфраструктур",
+        "eventTopic": "Великий вихід з гіперскейлерів. Стратегія міграції інфраструктур",
         "calendarLink": "https://calendar-link.com/event2",
         "description": "У своїй доповіді Володимир Цап розгляне тренд переходу компаній із публічних хмарних сервісів на власні приватні рішення. Основними причинами цього є високі витрати на хмарні обчислення, особливо для задач штучного інтелекту, геополітичні ризики та прагнення європейських компаній зберегти суверенітет даних. Спікер розгляне приклади таких компаній, як Dropbox, Adobe, Basecamp та Apple, які успішно мігрували на власну інфраструктуру. І проаналізує стратегії ефективного переходу на приватні чи гібридні рішення з використанням сучасних опенсорс-технологій.",
         "extraClasses": ["day1", "software"],
@@ -534,7 +545,7 @@
       },
 {
   "startTime": "18:00",
-  "endTime": "19:00",
+  "endTime": "18:45",
   "stageName": "Software Development Stage",
   "eventTopic": "Boosting Mobile App at Scale: як Preply пішов all-in з React Native",
   "calendarLink": "https://calendar-link.com/event2",
@@ -621,7 +632,7 @@
   "startTime": "17:15",
   "endTime": "18:00",
   "stageName": "Product and Marketing Stage",
-  "eventTopic": "Запустити продукт із заплющеними очима (ні). Фреймворк, який допомагає знайти юніт-економіку продукту",
+  "eventTopic": "Релізнути із заплющеними очима (ні). Фреймворк для запуску продукту з успішністю понад 80%",
   "calendarLink": "https://calendar-link.com/event2",
   "description": "Чи завжди запуск продукту — це лотерея? Ні, якщо ви маєте чіткий пайплайн. В Kiss My Apps довели механіку запуску продуктів до 80%+ успішності. На DOU Day Ілля Берестовський розповість про фреймворк, який використовує для нових B2C SaaS-продуктів. І розбере методологію на двох кейсах — успішному та ні. А ще відповість на запитання: як зрозуміти, що продукт вистрілить, які метрики ключові, як валідувати ніші й гіпотези. Та чому якість, дані та швидкість — це ключове.",
   "extraClasses": ["day1", "product"],
@@ -940,7 +951,7 @@
             "name": "Олена Руденко",
             "addinfo": "модератор",
             "position": "Head of Analytics, Djinni",
-            "socialLink": "https://www.linkedin.com/in/olenarudenko/"
+            "socialLink": "https://dou.ua/users/dmytro-rudenko-6/?from=menu-profile"
           }
         ]
       },
@@ -1054,7 +1065,7 @@
 },
 {
   "startTime": "18:00",
-  "endTime": "19:00",
+  "endTime": "18:45",
   "stageName": "AI and Data Science Stage",
   "eventTopic": "Розвиток і впровадження AI-агентів",
   "calendarLink": "https://calendar-link.com/event2",
@@ -1258,6 +1269,40 @@
     }
   ]
 },
+        {
+    "startTime": "13:30",
+    "endTime": "14:15",
+    "stageName": "GameDev-corner",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-2",
+    "description": "",
+    "extraClasses": ["day2", "gamedev"],
+    "speakers": [
+      {
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+        "name": "TBA",
+        "position": "TBA",
+        "socialLink": " "
+      }
+    ]
+  },
+  {
+    "startTime": "15:00",
+    "endTime": "15:45",
+    "stageName": "GameDev-corner",
+    "eventTopic": "TBA",
+    "calendarLink": "https://calendar-link.com/event-3",
+    "description": "",
+    "extraClasses": ["day2", "gamedev"],
+    "speakers": [
+      {
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+        "name": "TBA",
+        "position": "TBA",
+        "socialLink": " "
+      }
+    ]
+  },
 {
   "startTime": "12:45",
   "endTime": "13:30",
@@ -1327,8 +1372,8 @@
     ]
   },
    {
-    "startTime": "10:30",
-    "endTime": "11:15",
+    "startTime": "11:15",
+    "endTime": "12:00",
     "stageName": "Software Development Stage",
     "eventTopic": "Як 50 інженерів роблять 1000 деплоїв на місяць",
     "calendarLink": "https://calendar-link.com/event-new",
