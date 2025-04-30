@@ -3,13 +3,13 @@
     "program": [
       {
         "startTime": "08:30",
-        "stageName": "Main Stage",
+        "stageName": "",
         "eventTopic": "Реєстрація",
         "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20%D0%A0%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F%20Main%20Stage&dates=20250516T053000Z/20250516T053000Z&location=Kyiv%2C%20KVC%20Parkovy",
         "description": " ",
         "extraClasses": [
           "day1",
-          "main"
+          "all-stages"
         ],
         "speakers": []
       },
@@ -134,7 +134,7 @@
       {
         "startTime": "18:30",
         "stageName": "Main Stage",
-        "eventTopic": "Концерт Курганів",
+        "eventTopic": "Концерт Курган і Agregat",
         "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82%20%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B2%20Main%20Stage&dates=20250517T153000Z/20250517T153000Z&location=Kyiv%2C%20KVC%20Parkovy",
         "description": " ",
         "extraClasses": [
@@ -330,7 +330,7 @@
           {
             "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39766_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%B5%D0%BD%D0%BA%D0%BE.png",
             "name": "Юра Федоренко",
-            "addinfo": "інтерв'юєр",
+            "addinfo": "інтерв’юер",
             "position": "Front-end Area Lead, MacPaw",
             "socialLink": "https://dou.ua/users/yurafedorenko/"
           }
@@ -397,7 +397,7 @@
           {
             "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f39763_%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B8%CC%86%20%D0%91%D1%80%D0%BE%D0%B4%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B8%CC%86.png",
             "name": "Андрій Бродецький",
-            "addinfo": "інтерв'юєр",
+            "addinfo": "інтерв’юер",
             "position": "Інвестиційний аналітик, Horizon Capital",
             "socialLink": "https://www.linkedin.com/in/andrii-brodetskyi/"
           }
@@ -427,7 +427,7 @@
         "startTime": "17:15",
         "endTime": "18:00",
         "stageName": "Main Stage",
-        "eventTopic": "З'язок української ідентичності, культури та технологій",
+        "eventTopic": "Зв'язок української ідентичності, культури та технологій",
         "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20%D0%97%27%D1%8F%D0%B7%D0%BE%D0%BA%20%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%97%20%D1%96%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%96%2C%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B8%20%D1%82%D0%B0%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D0%B9%20Main%20Stage&dates=20250516T141500Z/20250516T150000Z&location=Kyiv%2C%20KVC%20Parkovy",
         "description": " ",
         "extraClasses": [
@@ -1158,8 +1158,8 @@
         ]
       },
       {
-        "startTime": "12:00",
-        "endTime": "12:45",
+        "startTime": "18:00",
+        "endTime": "18:45",
         "stageName": "AI and Data Science Stage",
         "eventTopic": "Cursor, Windsurf, Copilot, Cline — найкращі практики розробки з ШІ",
         "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20Cursor%2C%20Windsurf%2C%20Copilot%2C%20Cline%20%E2%80%94%20%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%89%D1%96%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8%20%D1%80%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BA%D0%B8%20%D0%B7%20%D0%A8%D0%86%20AI%20and%20Data%20Science%20Stage&dates=20250516T090000Z/20250516T094500Z&location=Kyiv%2C%20KVC%20Parkovy&details=%D0%AF%D0%BA%D1%89%D0%BE%20%D0%B2%D0%B8%20%D0%B2%D0%B8%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D1%83%D1%94%D1%82%D0%B5%20%D1%81%D1%83%D1%87%D0%B0%D1%81%D0%BD%D1%96%20IDE%20%D0%B7%20%D0%BF%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%BA%D0%BE%D1%8E%20%D0%A8%D0%86%20%D0%BB%D0%B8%D1%88%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%96%D0%B4%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%20%D0%BF%D1%96%D0%B4%20%D1%87%D0%B0%D1%81%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%BA%D0%BE%D0%B4%D1%83%2C%20%D1%82%D0%BE%20%D0%B2%D0%B8%20%D0%B1%D0%B0%D0%B3%D0%B0%D1%82%D0%BE%20%D0%B2%D1%82%D1%80%D0%B0%D1%87%D0%B0%D1%94%D1%82%D0%B5.%20%D0%91%D1%83%D0%BA%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%B7%D0%B0%20%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%96%D0%B9%20%D1%80%D1%96%D0%BA%20%D0%B2%D1%96%D0%B4%D0%B1%D1%83%D0%B2%D1%81%D1%8F%20%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%3A%20%D0%BF%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%BA%D0%B0%20%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%96%D0%B2%2C%20MCP%2C%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%20%D1%96%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%96%D0%B2%2C%20%D1%96%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0%D1%86%D1%96%D1%8F%20%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D1%97%20%D0%B1%D0%B0%D0%B7%D0%B8.%20%D0%90%D0%BB%D0%B5%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%BD%D0%B5%20%D0%BB%D0%B8%D1%88%D0%B5%20%D0%B2%20%D0%BA%D1%96%D0%BB%D1%8C%D0%BA%D0%BE%D1%81%D1%82%D1%96%20%D1%84%D1%96%D1%87%2C%20%D0%B0%20%D0%B2%20%D1%82%D0%BE%D0%BC%D1%83%20%E2%80%94%20%D1%8F%D0%BA%20%D1%97%D1%85%20%D0%B2%D0%B8%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D1%83%D0%B2%D0%B0%D1%82%D0%B8%2C%20%D1%89%D0%BE%D0%B1%20%D1%82%D0%B5%D1%85%D0%BD%D1%96%D1%87%D0%BD%D0%B8%D0%B9%20%D0%B1%D0%BE%D1%80%D0%B3%20%D0%BD%D0%B5%20%D0%B7%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%B2.%20%D0%92%D0%BB%D0%B0%D1%81%D0%BD%D0%B5%2C%20%D0%BF%D1%80%D0%BE%20%D1%86%D0%B5%20%D0%B9%20%D0%B1%D1%83%D0%B4%D0%B5%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%8C%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D1%96%20%D0%BD%D0%B0%D0%B9%D0%B1%D1%96%D0%BB%D1%8C%D1%88%20%D0%BF%D1%80%D0%BE%D1%81%D1%83%D0%BD%D1%83%D1%82%D0%B8%D1%85%20%D1%96%20%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B8%D1%85%20%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%96%D0%B2%2C%20%D0%B7%D0%BE%D0%BA%D1%80%D0%B5%D0%BC%D0%B0%20Cursor%2C%20Windsurf%2C%20GitHub%20Copilot%20%D1%96%20Cline.",
@@ -1238,8 +1238,8 @@
         ]
       },
       {
-        "startTime": "18:00",
-        "endTime": "18:45",
+        "startTime": "12:00",
+        "endTime": "12:45",
         "stageName": "AI and Data Science Stage",
         "eventTopic": "Розвиток і впровадження AI-агентів",
         "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20%D0%A0%D0%BE%D0%B7%D0%B2%D0%B8%D1%82%D0%BE%D0%BA%20%D1%96%20%D0%B2%D0%BF%D1%80%D0%BE%D0%B2%D0%B0%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F%20AI-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%96%D0%B2%20AI%20and%20Data%20Science%20Stage&dates=20250516T150000Z/20250516T154500Z&location=Kyiv%2C%20KVC%20Parkovy",
