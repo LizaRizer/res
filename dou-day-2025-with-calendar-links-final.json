@@ -2,6 +2,109 @@
   "dou-day-2025": {
     "program": [
       {
+  "startTime": "12:45",
+  "endTime": "13:30",
+  "stageName": "Round Table, вулиця",
+  "eventTopic": "Агро шукає ідеї. Стратегія цифрового розвитку інновацій до 2030 року (WINWIN) в секторі AgroTech — де потрібні стартапи?",
+  "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20Агро%20шукає%20ідеї.%20Стратегія%20цифрового%20розвитку%20інновацій%20до%202030%20року%20(WINWIN)%20в%20секторі%20AgroTech%20—%20де%20потрібні%20стартапи%3F&dates=20250516T094500Z/20250516T103000Z&location=Kyiv%2C%20KVC%20Parkovy&details=Україна%20—%20не%20просто%20аграрна%20країна.%20Вона%20—%20один%20з%20головних%20гравців.%20Наші%20поля%20годують%20мільйони%2C%20а%20потенціал%20технологій%20у%20агросекторі%20величезний.%20На%20цій%20панельній%20дискусії%20ми%20зберемо%20лідерів%20ринку%2C%20інноваторів%20та%20візіонерів%2C%20щоб%20обговорити%20стратегію%20розвитку%20AgroTech%20до%202030%2C%20поговорити%20про%20те%2C%20які%20проривні%20технології%20змінять%20уявлення%20про%20фермерство%2C%20продовольчу%20безпеку%20та%20сталий%20розвиток.%20А%20які%20стартапи%20мають%20усі%20шанси%20злетіти%20—%20і%20як%20їх%20запустити%20вже%20зараз%3F%20Це%20не%20просто%20розмова%20—%20це%20дорожня%20карта%20для%20тих%2C%20хто%20хоче%20створити%20щось%20справді%20важливе.%20Для%20України.%20Для%20світу.",
+  "description": "Україна — не просто аграрна країна. Вона — один з головних гравців. Наші поля годують мільйони, а потенціал технологій у агросекторі величезний. На цій панельній дискусії ми зберемо лідерів ринку, інноваторів та візіонерів, щоб обговорити стратегію розвитку AgroTech до 2030, поговорити про те, які проривні технології змінять уявлення про фермерство, продовольчу безпеку та сталий розвиток. А які стартапи мають усі шанси злетіти — і як їх запустити вже зараз? Це не просто розмова — це дорожня карта для тих, хто хоче створити щось справді важливе. Для України. Для світу.",
+  "extraClasses": [
+    "day1",
+    "startup"
+  ],
+  "speakers": [
+    {
+      "name": "Богдан Круглик",
+      "position": "СЕО FRENDT",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/68220001afccc3af1aabbe28_imgphoto.png",
+      "link": "https://www.linkedin.com/in/bohdan-kruhlyk-5645a1113/"
+    },
+    {
+      "name": "Наталія Богачова",
+      "position": "Генеральна директорка AgriChain",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/68220003adf9adbe35fd2a45_imgphoto6.png",
+      "link": "http://linkedin.com/in/наталия-богачева-751902167"
+    },
+    {
+      "name": "Тарас Гошовський",
+      "position": "Директор з інформаційних та диджитал-технологій МХП",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/68220004942ed1bdcf9760d9_imgphoto5.png",
+      "link": "https://www.linkedin.com/in/taras-goshovskyi"
+    },
+    {
+      "name": "Назар Малиняк",
+      "position": "Керівний партнер SmartFarming",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/68220003b708191664bb442a_imgphoto8.png",
+      "link": "https://www.linkedin.com/in/nazar-malyniak-45a154161/"
+    },
+    {
+      "name": "ТВА",
+      "position": "",
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png",
+      "addinfo": "модератор"
+    }
+  ]
+},      
+{
+  "startTime": "11:15",
+  "endTime": "12:00",
+  "stageName": "Round Table, вулиця",
+  "eventTopic": "Чому великий бізнес робить ставку на стартапи",
+  "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20Чому%20великий%20бізнес%20робить%20ставку%20на%20стартапи&dates=20250516T081500Z/20250516T090000Z&location=Kyiv%2C%20KVC%20Parkovy&details=Чому%20великі%20шукають%20малих%3F%20Коли%20корпорації%20з%20багатомільярдними%20оборотами%20починають%20вкладатися%20у%20стартапи%2C%20питання%20%E2%80%9Cнавіщо%3F%E2%80%9D%20вже%20не%20риторичне%2C%20а%20стратегічне.%0AБо%20швидкість%2C%20ризик%2C%20креатив%20і%20технології%20%E2%80%94%20це%20те%2C%20що%20великий%20бізнес%20іноді%20не%20може%20створити%20сам%2C%20але%20може%20масштабувати.",
+  "description": "Чому великі шукають малих? Коли корпорації з багатомільярдними оборотами починають вкладатися у стартапи, питання “навіщо?” вже не риторичне, а стратегічне.\nБо швидкість, ризик, креатив і технології — це те, що великий бізнес іноді не може створити сам, але може масштабувати.",
+  "extraClasses": [
+    "day1",
+    "startup"
+  ],
+  "speakers": [
+    {
+      "name": "Хоменко Євгеній",
+      "position": "Група компаній Nova, Директор департаменту розробки фізичних точок сервісу",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/682200036af1607bfcf9e2b8_imgphoto2.png",
+      "link": "https://www.linkedin.com/in/yevhenii-khomenko-a21213237/"
+    },
+    {
+      "name": "Тарас Шевченко",
+      "position": "Керівник з урядових відносин у Східній Європі та Центральній Азії в компанії Glovo",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/68220003af3e228428197108_imgphoto3.png",
+      "link": "https://www.linkedin.com/in/taras-shevchenko-82130042/"
+    },
+    {
+      "name": "Ольга Ксьонзенко",
+      "position": "GR Director, deputy CEO at Sigma Software",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/68220004d8367f048e160625_imgphoto4.png",
+      "link": "https://www.linkedin.com/in/olgaksonzenko/"
+    },
+    {
+      "name": "Валерія Кушнерчук",
+      "position": "СEO Diia City Union",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/682200039c15a268a3d9ea66_imgphoto7.png",
+      "link": "https://www.linkedin.com/in/valeria-kushnerchuk/",
+      "addinfo": "модератор"
+    }
+  ]
+},
+      {
+  "startTime": "12:15",
+  "endTime": "12:45",
+  "stageName": "Round Table, вулиця",
+  "eventTopic": "Q&A-формат: «Ask Me Anything»",
+  "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20Ask%20Me%20Anything&dates=20250516T091500Z/20250516T094500Z&location=Kyiv%2C%20KVC%20Parkovy",
+  "description": "",
+  "extraClasses": [
+    "day1",
+    "round"
+  ],
+  "speakers": [
+    {
+      "name": "Анастасія Войтова",
+      "position": "Head of Security Engineering, Cossack Labs",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6822000369a7a0860c1a5fe7_imgphoto1.png",
+      "link": "https://www.linkedin.com/in/anastasiiavoitova/"
+    }
+  ]
+},
+      {
   "startTime": "15:00",
   "endTime": "15:30",
   "stageName": "Round Table, вулиця",
