@@ -1,6 +1,205 @@
 {
   "dou-day-2025": {
     "program": [
+{
+  "startTime": "13:30",
+  "endTime": "14:00",
+  "stageName": "Round Table, вулиця",
+  "eventTopic": "Q&A-формат: «Ask Me Anything»",
+  "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20Ask%20Me%20Anything%20з%20Артемом%20Биковцем&dates=20250517T103000Z/20250517T110000Z&location=Kyiv%2C%20KVC%20Parkovy",
+  "description": "",
+  "extraClasses": [
+    "day2",
+    "round"
+  ],
+  "speakers": [
+    {
+      "name": "Артем Биковець",
+      "position": "Засновник та Agile Coach в Simplesense та Org Coach в mono",
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f396bf_ph275.png",
+      "link": "https://dou.ua/users/artem-bykovets/"
+    }
+  ]
+},
+{
+  "startTime": "15:45",
+  "endTime": "16:15",
+  "stageName": "Round Table, вулиця",
+  "eventTopic": "Q&A-формат: «Про командну динаміку і культуру»",
+  "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20Командна%20динаміка%20та%20культура%20з%20Михайлом%20Нестором&dates=20250517T124500Z/20250517T131500Z&location=Kyiv%2C%20KVC%20Parkovy",
+  "description": "",
+  "extraClasses": [
+    "day2",
+    "round"
+  ],
+  "speakers": [
+    {
+      "name": "Михайло Нестор",
+      "position": "Chief Product Officer, Kyivstar",
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/6810ec40830d46a5c16bcaf6_%D0%9D%D0%B5%D1%81%D1%82%D0%BE%D1%80.png",
+      "link": "https://www.linkedin.com/in/mishanestor/"
+    }
+  ]
+},
+      {
+  "startTime": "16:30",
+  "endTime": "17:15",
+  "stageName": "Startup Stage, 1-й поверх",
+  "eventTopic": "Ask Me Anything: технологічний бізнес без прикрас",
+  "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20Ask%20Me%20Anything&dates=20250517T133000Z/20250517T141500Z&location=Kyiv%2C%20KVC%20Parkovy&details=Що%20насправді%20відбувається%20в%20українському%20тех%20бізнесі%3F%20Втома%2C%20драйв%2C%20факапи%2C%20управління%20і%20партнерства.%20Відкрита%20Q%26A%20сесія%20з%20тими%2C%20хто%20будує%20компанії%20—%20без%20фільтрів%2C%20на%2045%20хвилин%20чесних%20відповідей.",
+  "description": "Що насправді відбувається за лаштунками українського технологічного бізнесу? Як ухвалюють рішення, де знайти сили і ресурси масштабуватися і чому ніхто не говорить про амбіції, драйв, а ще про втому фаундерів? Відкрита сесія Q&A з топпідприємцями, які не читають лекцій — вони будують компанії. Ставте свої запитання напряму, без фільтрів і цензури. 45 хвилин чесної розмови про управління, амбіції, фейли, гроші, партнерства і все, що ви давно хотіли запитати, але не було нагоди чи можливості. Тепер є.",
+  "extraClasses": [
+    "day2",
+    "startup"
+  ],
+  "speakers": [
+    {
+      "name": "Самвел Акобян",
+      "position": "Lilo, co-founder, серійний технологічний підприємець",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c5098ee405b21b7970_photo-speaker9.png"
+    },
+    {
+      "name": "Олексій Щербатенко",
+      "position": "IT Enterprise, co-founder",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c5beb32b4d2372e761_photo-speaker10.png",
+      "link": "https://www.linkedin.com/in/oleksii-shcherbatenko-15660743/"
+    },
+    {
+      "name": "Артем Бородатюк",
+      "position": "Netpeak Group, founder and CEO",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c7696152a2f761bb67_photo-speaker4.png",
+      "link": "https://www.linkedin.com/in/artem-borodatiuk-18b9986/?originalSubdomain=ua"
+    },
+    {
+      "name": "Наталя Микольска",
+      "position": "СEO DiiaCity United",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c6e52f9959c14243d2_photo-speaker2.png",
+      "link": "https://www.linkedin.com/in/nataliya-mykolska/",
+      "addinfo": "модератор"
+    }
+  ]
+},
+      {
+  "startTime": "13:00",
+  "endTime": "13:45",
+  "stageName": "Startup Stage, 1-й поверх",
+  "eventTopic": "Startup, Fuckup, Repeat",
+  "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20Startup%2C%20Fuckup%2C%20Repeat&dates=20250517T100000Z/20250517T104500Z&location=Kyiv%2C%20KVC%20Parkovy&details=Це%20панель%20про%20правду%20стартаперів%3A%20факапи%2C%20злети%20і%20нові%20спроби.%20Про%20ідеї%2C%20які%20звучали%20лише%20в%20голові%2C%20і%20про%20життя%20після%20чергової%20невдачі.%20Без%20глянцю%2C%20але%20з%20формулою%20виживання.",
+  "description": "Це не просто назва панелі, це життєвий цикл стартапера, стиснений до трьох слів і десятків нервових зривів. На цій сцені — ті, хто вже падав обличчям у асфальт, але щоразу підіймався сильнішим. Засновники, які запускали проєкти з нуля, факапили, починали заново — і зрештою знаходили свою формулу успіху або... новий факап. Ми поговоримо про провали, які кращі за будь-які MBA, ідеї, які звучали круто... тільки в голові, моменти, коли хотілося все кинути — і що сталося після. Це панель не про глянець. Це панель про правду. І про те, як вижити в екосистемі.",
+  "extraClasses": [
+    "day2",
+    "startup"
+  ],
+  "speakers": [
+    {
+      "name": "Дарія Лещенко",
+      "position": "СEO та фаундерка SupportYourApp",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9cd49d9bd2e8a77019a_photo-speaker11.png",
+      "link": "https://www.linkedin.com/in/darialeshchenko/"
+    },
+    {
+      "name": "Олексій Шалденко",
+      "position": "CEO та фаундер Wantent",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c58eb41110cbfb1ed7_photo-speaker8.png",
+      "link": "https://www.linkedin.com/in/oleksiishaldenko/"
+    },
+    {
+      "name": "Андрій Карп'юк",
+      "position": "CEO та фаундер Biosens",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c56178b79e5d5b3560_photo-speaker12.png",
+      "link": "https://www.linkedin.com/in/karpiuk/"
+    },
+    {
+      "name": "Андрій Заікін",
+      "position": "CEO and Founder YEP Accelerator",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c6f3d4d780b2d5c84c_photo-speaker6.png",
+      "link": "https://www.linkedin.com/in/andriizaikin/",
+      "addinfo": "модератор"
+    }
+  ]
+},
+        {
+    "startTime": "10:30",
+    "endTime": "11:15",
+    "stageName": "Startup Stage, 1-й поверх",
+    "eventTopic": "Жінки в tech-бізнесі. Успішний успіх, або Про що не говорять вголос",
+    "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20Жінки%20в%20tech-бізнесі&dates=20250517T073000Z/20250517T081500Z&location=Kyiv%2C%20KVC%20Parkovy&details=Жінки%20створюють%20продукти%2C%20ведуть%20переговори%2C%20ламають%20те%2C%20що%20не%20працює%2C%20і%20одночасно%20несуть%20десятки%20невидимих%20ролей%3A%20сім%27я%2C%20діти%2C%20війна.%20Ця%20панель%20—%20про%20досвід%2C%20як%20є.%20Без%20фільтрів%2C%20чесно%2C%20із%20самоіронією.",
+    "description": "Жінки створюють продукти, ведуть переговори, масштабують компанії, ухвалюють жорсткі рішення і ламають те, що не працює. І водночас несуть на собі десятки невидимих ролей, про які рідко питають у медіа чи на пітчах: сім'я, діти, менторство, війна. За “успішним успіхом” — баги, факапи, сумніви й ті самі питання, які заведено пропускати в публічному просторі. Ця панель — не про правильні відповіді. Вона про досвід, як є. Із самоіронією. Без фільтрів. Чесно.",
+    "extraClasses": [
+      "day2",
+      "startup"
+    ],
+    "speakers": [
+      {
+        "name": "Марина Павлюк",
+        "position": "Glovo Ukraine, CEO",
+        "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c72b8c71f46c4745f6_photo-speaker13.png",
+        "link": "https://www.linkedin.com/in/maryna-pavliuk-55440164/"
+      },
+      {
+        "name": "Антоніна Єрмейчук",
+        "position": "Deus Robotics, co-founder",
+        "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c8c399d8687e4d2f21_photo-speaker14.png",
+        "link": "https://www.linkedin.com/in/iermtonia/"
+      },
+      {
+        "name": "Євгенія Глізер",
+        "position": "Сhoice31, co-founder and CEO",
+        "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c4ea5c76add352ac2d_photo-speaker.png",
+        "link": "https://www.linkedin.com/in/evgeniya-glizer-tiurina-006a43a8/"
+      },
+      {
+        "name": "Інна Максименко",
+        "position": "Keiki, founder і CEO",
+        "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c6689850a8470ab87e_photo-speaker15.png",
+        "link": "https://www.linkedin.com/in/inna-maksymenko-b96bbb130/"
+      },
+      {
+        "name": "ТВА",
+        "addinfo": "модератор",
+        "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/681084e1412f91ab895097e1_mainphoto.png"
+      }
+    ]
+  },
+  {
+    "startTime": "12:00",
+    "endTime": "12:45",
+    "stageName": "Startup Stage, 1-й поверх",
+    "eventTopic": "Корови, адреси та діабет — успішні ІТ-стартапи у сферах, де на це ніхто не ставив",
+    "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20%D0%9A%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%2C%20%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B8%20%D1%82%D0%B0%20%D0%B4%D1%96%D0%B0%D0%B1%D0%B5%D1%82&dates=20250517T090000Z/20250517T094500Z&location=Kyiv%2C%20KVC%20Parkovy&details=%D0%9D%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%96%20%D1%96%D0%B4%D0%B5%D1%97%20%D1%96%20%D0%BF%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%BA%D0%B8%3A%20%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D0%B8%2C%20%D1%8F%D0%BA%D1%96%20%D0%BA%D0%BE%D0%BC%D0%B5%D1%80%D1%86%D1%96%D0%B0%D0%BB%D1%96%D0%B7%D1%83%D0%B2%D0%B0%D0%BB%D0%B8%20%D0%BA%D0%BE%D1%80%D1%96%D0%B2%2C%20%D0%B2%D0%B8%D1%80%D0%B0%D1%85%D1%83%D0%B2%D0%B0%D0%BB%D0%B8%20%D0%B4%D1%96%D0%B0%D0%B1%D0%B5%D1%82%20%D0%B7%D0%B0%20%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D0%B8%2C%20%D0%B7%D0%B1%D1%83%D0%B4%D1%83%D0%B2%D0%B0%D0%BB%D0%B8%20%D0%B1%D1%96%D0%B7%D0%BD%D0%B5%D1%81%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D0%B0%D1%85%20%D0%B4%D0%B0%D0%BD%D0%B8%D1%85%2C%20%D0%BD%D0%B5%20%D0%BF%D0%BE%D1%80%D1%83%D1%88%D1%83%D1%8E%D1%87%D0%B8%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD.%20%D0%AF%D0%BA%20%D0%B7%20%D0%B1%D0%BE%D0%B6%D0%B5%D0%B2%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%97%20%D1%96%D0%B4%D0%B5%D1%97%20%D0%B7%D1%80%D0%BE%D0%B1%D0%B8%D1%82%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%20%D1%96%20%D0%B1%D1%96%D0%B7%D0%BD%D0%B5%D1%81.%20%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D1%96%D1%87%D0%BD%D0%BE%2C%20%D1%87%D0%B5%D1%81%D0%BD%D0%BE%2C%20%D0%B7%20%D0%BB%D0%B0%D0%B9%D1%84%D1%85%D0%B0%D0%BA%D0%B0%D0%BC%D0%B8.",
+    "description": "Нестандартні ідеї, нестандартні прибутки. На цій панельній дискусії зустрінуться стартапи, які сміливо пішли туди, куди інші навіть не заглядали: комерціалізували корів (так, буквально), вирахували діабет за секунди і збудували бізнес на базах даних, не перейшовши межу закону. З перших вуст — як з божевільної ідеї зробити продукт, а з продукту — бізнес, що вижив. Чесно, динамічно і з лайфхаками, які не знайдеш на сторінках Forbes.",
+    "extraClasses": [
+      "day2",
+      "startup"
+    ],
+    "speakers": [
+      {
+        "name": "Михайло Шуранов",
+        "position": "співзасновник med-tech платформи CheckEye",
+        "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c51d64d8514e3ebc62_photo-speaker3.png",
+        "link": "https://www.linkedin.com/in/mikhail-shuranov-6b108937/"
+      },
+      {
+        "name": "Володимир Шевчук",
+        "position": "СЕО HowCow",
+        "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c5d0796fa368dcea6a_photo-speaker5.png",
+        "link": "https://www.linkedin.com/in/shevchukvolodymyr/"
+      },
+      {
+        "name": "Олена Григораш",
+        "position": "CEO and Founder DM Solutions Group",
+        "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c57e769693451983c1_photo-speaker7.png",
+        "link": "https://www.linkedin.com/in/olena-hrygorash-5ab50334/"
+      },
+      {
+        "name": "Антон Волошин",
+        "position": "PhD., Engineering Director at DXC Luxoft",
+        "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6821c9c70ae6281537f97f87_photo-speaker1.png",
+        "link": "https://www.linkedin.com/in/anton-voloshyn-phd-255a9533/",
+        "addinfo": "модератор"
+      }
+    ]
+  },
       {
         "startTime": "08:30",
         "stageName": "",
