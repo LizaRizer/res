@@ -2,6 +2,106 @@
   "dou-day-2025": {
     "program": [
       {
+  "startTime": "15:45",
+  "endTime": "16:30",
+  "stageName": "Round Table, вулиця",
+  "eventTopic": "Startup World Cup: Part 2",
+  "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20Startup%20World%20Cup%3A%20Part%201&dates=20250516T111500Z/20250516T120000Z&location=Kyiv%2C%20KVC%20Parkovy&details=Це%20більше%2C%20ніж%20пітчинг.%20Це%20можливість%20стати%20чемпіоном%20України!%20Це%20відбірковий%20етап%20одного%20з%20найпрестижніших%20стартап-турнірів%20планети%2C%20де%20амбітні%20фаундери%20змагаються%20за%20шанс%20представляти%20країну%20на%20глобальному%20фіналі%20в%20Кремнієвій%20долині.%20Тут%20народжуються%20нові%20зірки%3A%20ті%2C%20хто%20не%20просто%20має%20ідею%2C%20а%20може%20переконати%20інвесторів%20у%20тому%2C%20що%20саме%20вона%20змінить%20правила%20гри.",
+  "description": "Це більше, ніж пітчинг. Це можливість стати чемпіоном України! Це відбірковий етап одного з найпрестижніших стартап-турнірів планети, де амбітні фаундери змагаються за шанс представляти країну на глобальному фіналі в Кремнієвій долині. Тут народжуються нові зірки: ті, хто не просто має ідею, а може переконати інвесторів у тому, що саме вона змінить правила гри.",
+  "extraClasses": [
+    "day1",
+    "startup"
+  ],
+  "speakers": [
+    {
+      "name": "Rustam Yomutbayev",
+      "position": "Investment Analyst at Vesna Capital",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6822f1b0c5d1d8e5a79cbeb2_sp-p.png",
+      "link": "https://www.linkedin.com/in/akayukan/"
+    },
+    {
+      "name": "Ivan Petrenko",
+      "position": "Managing Partner Angel One Venture Fund",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6822f1af489c42a55729928e_sp-p1.png",
+      "link": "https://www.linkedin.com/in/ivan-petrenko-070299172/"
+    },
+    {
+      "name": "Taras Goshovskyi",
+      "position": "CIO MHP",
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3974f_%D0%A2%D0%B0%D1%80%D0%B0%D1%81-%D0%93%D0%BE%D1%88%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9.png",
+      "link": "https://www.linkedin.com/in/taras-goshovskyi"
+    },
+    {
+      "name": "Ksenia Izakova",
+      "position": "Project Lead 1991 VC",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6822f1ae6a585831800800a8_sp-p3.png",
+      "link": "https://www.linkedin.com/in/avokazi/"
+    },
+    {
+      "name": "Valeriy Dobrovolskyi",
+      "position": "Economic Recovery and Employment Opportunities Director at Partnership Fund for Resilient Ukraine",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6822f1b0489c42a557299350_sp-p5.png",
+      "link": "https://www.linkedin.com/in/valeriy-dobrovolskiy-ba00958/"
+    },
+    {
+      "name": "Oleksii Besarab",
+      "position": "CTO CISCO Ukraine",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6822f1acc5bc0e75655ae077_sp-p4.png",
+      "link": "https://www.linkedin.com/in/alexey-bessarab-68baa81"
+    }
+  ]
+}, 
+{
+  "startTime": "14:15",
+  "endTime": "15:00",
+  "stageName": "Round Table, вулиця",
+  "eventTopic": "Startup World Cup: Part 1",
+  "calendarLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=DOU%20Day%202025%20Startup%20World%20Cup%3A%20Part%201&dates=20250516T111500Z/20250516T120000Z&location=Kyiv%2C%20KVC%20Parkovy&details=Це%20більше%2C%20ніж%20пітчинг.%20Це%20можливість%20стати%20чемпіоном%20України!%20Це%20відбірковий%20етап%20одного%20з%20найпрестижніших%20стартап-турнірів%20планети%2C%20де%20амбітні%20фаундери%20змагаються%20за%20шанс%20представляти%20країну%20на%20глобальному%20фіналі%20в%20Кремнієвій%20долині.%20Тут%20народжуються%20нові%20зірки%3A%20ті%2C%20хто%20не%20просто%20має%20ідею%2C%20а%20може%20переконати%20інвесторів%20у%20тому%2C%20що%20саме%20вона%20змінить%20правила%20гри.",
+  "description": "Це більше, ніж пітчинг. Це можливість стати чемпіоном України! Це відбірковий етап одного з найпрестижніших стартап-турнірів планети, де амбітні фаундери змагаються за шанс представляти країну на глобальному фіналі в Кремнієвій долині. Тут народжуються нові зірки: ті, хто не просто має ідею, а може переконати інвесторів у тому, що саме вона змінить правила гри.",
+  "extraClasses": [
+    "day1",
+    "startup"
+  ],
+  "speakers": [
+    {
+      "name": "Rustam Yomutbayev",
+      "position": "Investment Analyst at Vesna Capital",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6822f1b0c5d1d8e5a79cbeb2_sp-p.png",
+      "link": "https://www.linkedin.com/in/akayukan/"
+    },
+    {
+      "name": "Ivan Petrenko",
+      "position": "Managing Partner Angel One Venture Fund",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6822f1af489c42a55729928e_sp-p1.png",
+      "link": "https://www.linkedin.com/in/ivan-petrenko-070299172/"
+    },
+    {
+      "name": "Taras Goshovskyi",
+      "position": "CIO MHP",
+      "photo": "https://cdn.prod.website-files.com/680f68c6198fc5ce53f39655/680f68c6198fc5ce53f3974f_%D0%A2%D0%B0%D1%80%D0%B0%D1%81-%D0%93%D0%BE%D1%88%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9.png",
+      "link": "https://www.linkedin.com/in/taras-goshovskyi"
+    },
+    {
+      "name": "Ksenia Izakova",
+      "position": "Project Lead 1991 VC",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6822f1ae6a585831800800a8_sp-p3.png",
+      "link": "https://www.linkedin.com/in/avokazi/"
+    },
+    {
+      "name": "Valeriy Dobrovolskyi",
+      "position": "Economic Recovery and Employment Opportunities Director at Partnership Fund for Resilient Ukraine",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6822f1b0489c42a557299350_sp-p5.png",
+      "link": "https://www.linkedin.com/in/valeriy-dobrovolskiy-ba00958/"
+    },
+    {
+      "name": "Oleksii Besarab",
+      "position": "CTO CISCO Ukraine",
+      "photo": "https://cdn.prod.website-files.com/67d826d4d7fd65a1f0c482b2/6822f1acc5bc0e75655ae077_sp-p4.png",
+      "link": "https://www.linkedin.com/in/alexey-bessarab-68baa81"
+    }
+  ]
+},      
+      {
   "startTime": "12:45",
   "endTime": "13:30",
   "stageName": "Round Table, вулиця",
