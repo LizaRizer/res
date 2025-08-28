@@ -1,0 +1,18 @@
+[
+  {
+    "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd17d7892582002beddc_gergely_orosz.png",
+    "name": "Gergely Orosz",
+    "namelink": "https://www.linkedin.com/in/gergelyorosz",
+    "position": "Author @ The Pragmatic Engineer",
+    "positionlink": "https://pragmaticengineer.com/",
+    "description": "Gergely writes The Pragmatic Engineer, the #1 technology newsletter on Substack. Formerly a software engineer and engineering manager at Uber, he is also the author of The Software Engineer’s Guidebook and other books on building software at scale."
+  },
+{
+  "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd170fabd6d8d03545fa_agur_jogi.png",
+  "name": "Agur Jõgi",
+  "namelink": "https://www.linkedin.com/in/agurjogi/",
+  "position": "CTO @ Pipedrive",
+  "positionlink": "https://www.pipedrive.com/",
+  "description": "Agur Jõgi is the CTO at Pipedrive, where he leads development, infrastructure, and the company's next-generation tech vision. Previously Strategy and Innovation Lead at Deloitte NEXT, he brings executive experience as CIO, CTO, and COO across IT, banking, and telecom."
+},
+  ]
