@@ -22,5 +22,29 @@
   "position": "CTO @ Pipedrive",
   "positionlink": "https://https://openai.com/",
   "description": "Dominik is currently working on Developer Experience & SDKs at OpenAI. Previously he lead Product & Design for Twilio's Emerging Tech & Innovation organization. Dominik loves tinkering with anything that can run JavaScript, from front-end servers to CLIs and coffee machines. You can find him tweeting @dkundel and in his spare time he's working on cocktails, food and photography."
+},
+    {
+  "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd1814917cc17c983f48_ivan_kutskir.png",
+  "name": "Ivan Kutskir",
+  "namelink": " ",
+  "position": "Founder & Developer @ Photopea",
+  "positionlink": "https://www.photopea.com/",
+  "description": "Ivan Kutskir is the solo creator of Photopea, a free web-based alternative to Photoshop with over 1M users per day. He built the app entirely on his own — no team, office, or investors — and continues to develop it today from Prague."
+},
+      {
+  "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd17cf5cba14f9ed6ddd_dima_maleev.png",
+  "name": "Dima Maleev",
+  "namelink": "https://www.linkedin.com/in/dmaleev/",
+  "position": "Associate Director of Engineering @ Agoda",
+  "positionlink": "https://www.agoda.com/",
+  "description": "Dima Maleev is an Associate Director of Engineering at Agoda with over 20 years of journey in tech. He runs So Nerdy!, a course and community for engineers stepping into leadership, and co-founder of mentor.sh, a platform connecting mentors with those who want to grow."
+},
+        {
+  "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd17cf5cba14f9ed6ddd_dima_maleev.png",
+  "name": "Dima Maleev",
+  "namelink": "https://www.linkedin.com/in/dmaleev/",
+  "position": "Associate Director of Engineering @ Agoda",
+  "positionlink": "https://www.agoda.com/",
+  "description": "Dima Maleev is an Associate Director of Engineering at Agoda with over 20 years of journey in tech. He runs <a href=\"https://www.sonerdy.me/\" class=\"link-color\" target=\"_blank\" rel=\"noopener noreferrer\">So Nerdy!</a>, a course and community for engineers stepping into leadership, and co-founder of mentor.sh, a platform connecting mentors with those who want to grow."
 }
   ]
