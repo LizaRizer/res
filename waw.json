@@ -15,7 +15,7 @@
   "positionlink": "https://www.pipedrive.com/",
   "description": "Agur Jõgi is the CTO at Pipedrive, where he leads development, infrastructure, and the company's next-generation tech vision. Previously Strategy and Innovation Lead at Deloitte NEXT, he brings executive experience as CIO, CTO, and COO across IT, banking, and telecom."
 },
-  {
+ {
   "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/68aeceee3fb4008f5cb5b443_%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-08-27%20%D0%BE%2012.24.41-p-1080.png",
   "name": "Dominik Kundel",
   "namelink": "https://dkundel.com/",
@@ -23,7 +23,7 @@
   "positionlink": "https://https://openai.com/",
   "description": "Dominik is currently working on Developer Experience & SDKs at OpenAI. Previously he lead Product & Design for Twilio's Emerging Tech & Innovation organization. Dominik loves tinkering with anything that can run JavaScript, from front-end servers to CLIs and coffee machines. You can find him tweeting @dkundel and in his spare time he's working on cocktails, food and photography."
 },
-    {
+ {
   "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd1814917cc17c983f48_ivan_kutskir.png",
   "name": "Ivan Kutskir",
   "namelink": " ",
@@ -31,20 +31,69 @@
   "positionlink": "https://www.photopea.com/",
   "description": "Ivan Kutskir is the solo creator of Photopea, a free web-based alternative to Photoshop with over 1M users per day. He built the app entirely on his own — no team, office, or investors — and continues to develop it today from Prague."
 },
-      {
-  "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd17cf5cba14f9ed6ddd_dima_maleev.png",
-  "name": "Dima Maleev",
-  "namelink": "https://www.linkedin.com/in/dmaleev/",
-  "position": "Associate Director of Engineering @ Agoda",
-  "positionlink": "https://www.agoda.com/",
-  "description": "Dima Maleev is an Associate Director of Engineering at Agoda with over 20 years of journey in tech. He runs So Nerdy!, a course and community for engineers stepping into leadership, and co-founder of mentor.sh, a platform connecting mentors with those who want to grow."
-},
-        {
+
+ {
   "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd17cf5cba14f9ed6ddd_dima_maleev.png",
   "name": "Dima Maleev",
   "namelink": "https://www.linkedin.com/in/dmaleev/",
   "position": "Associate Director of Engineering @ Agoda",
   "positionlink": "https://www.agoda.com/",
   "description": "Dima Maleev is an Associate Director of Engineering at Agoda with over 20 years of journey in tech. He runs <a href=\"https://www.sonerdy.me/\" class=\"link-color\" target=\"_blank\" rel=\"noopener noreferrer\">So Nerdy!</a>, a course and community for engineers stepping into leadership, and co-founder of mentor.sh, a platform connecting mentors with those who want to grow."
+},
+ {
+  "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd189712968b73c4db99_lukasz_borowiecki.png",
+  "name": "Łukasz Borowiecki",
+  "namelink": "https://www.linkedin.com/in/lukasz-borowiecki/",
+  "position": "CEO @ 10 Senses",
+  "positionlink": "https://10senses.com/",
+  "description": "DCo-founder of <a href=\"https://10senses.com/\" class=\"link-color\" target=\"_blank\" rel=\"noopener noreferrer\">10 Senses</a>, a consultancy focused on AI and advanced analytics. With a PhD in Economics and 15+ years in data science and consulting (including EY), he authors publications on AI adoption in Poland and contributes to the national AI Working Group."
+},
+  {
+  "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/68aec9d084a854107de612ae_%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-08-27%20%D0%BE%2012.02.33.png",
+  "name": "Michał Nowotka",
+  "namelink": "https://www.linkedin.com/in/michal-nowotka/",
+  "position": "Engineering Manager @ Asana",
+  "positionlink": "https://asana.com/",
+  "description": "Michał is an engineering manager at Asana, leading product engineering teams focused on integrations and reporting. Previously, he led engineering teams at Snowflake, Bolt, and YouGov. Passionate about AI, open-source, and software design, Michał has been engaged with technology long before it became mainstream."
+},
+  {
+  "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd1778f8c43837ecae5e_anastasi_voitova.png",
+  "name": "Anastasia Voitova",
+  "namelink": "https://www.linkedin.com/in/anastasiiavoitova/",
+  "position": "Head of security engineering @ Cossack Labs",
+  "positionlink": "https://www.cossacklabs.com/",
+  "description": "Anastasiia is a cybersecurity engineer with 10+ years’ experience in data protection and cryptography. She speaks at international conferences, contributes to OWASP, and co-organises cybersecurity events."
+},
+  {
+  "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd183338949a6e6e39a4_artem_yavorsky.png",
+  "name": "Artem Yavorsky",
+  "namelink": "https://www.linkedin.com/in/yvrsky/",
+  "position": "Member of Technical Staff @ Writer",
+  "positionlink": "https://writer.com/",
+  "description": "Artem is a full-stack engineer at Writer, building agentic AI systems and creator of unbuilt.app, an open-source tool for tech stack analysis. He is also a creator of unbuilt.app, ex Netflix, ex Wix. He enjoys cycling, cooking, and time with his dog, Lavender."
+},
+{
+  "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fe5e85de641139ba7dca_sanya_solovyov.jpg",
+  "name": "Sanya Solovyov",
+  "namelink": "https://solovyov.net/",
+  "position": "Engineering Manager Metabase",
+  "positionlink": "https://www.metabase.com/",
+  "description": "Sanya is a seasoned industry professional, most recently being CTO at Kasta.ua and then EM at Metabase. He had some successful talks in the past, so (fingers crossed) the story will continue."
+},
+{
+  "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd17d96f3e54ed12340c_mykola_maksymenko.png",
+  "name": "Mykola Maksymenko",
+  "namelink": "https://www.linkedin.com/in/mykola-maksymenko-4448a839/",
+  "position": "Co-founder & CTO @ Haiqu",
+  "positionlink": "https://haiqu.ai/",
+  "description": "Mykola, Co-founder and CTO of Haiqu, is a visionary technologist advancing the frontier of quantum computing and AI. He focuses on transforming deep-tech breakthroughs into impactful innovations that shape the future of industry and society."
+},
+{
+  "photo": "https://cdn.prod.website-files.com/6891c1265c1b1b4e6cd2fb6c/6895fd17c7460604c0c87796_andrii_degeler.png",
+  "name": "Andrii Degeler",
+  "namelink": "https://www.linkedin.com/in/shlema/",
+  "position": "Tech journalist Unzip.Media",
+  "positionlink": "https://unzip.media/",
+  "description": "Andrii Degeler is <a href=\"https://unzip.media/\" class=\"link-color\" target=\"_blank\" rel=\"noopener noreferrer\">a tech media leader</a> and podcast host with 15+ years covering Europe’s startup and deep-tech ecosystem. He’s worked with outlets like TNW, Tech.eu, Ars Technica, and Engadget, spotlighting key innovation trends across the continent."
 }
   ]
